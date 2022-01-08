@@ -1,0 +1,1729 @@
+fiyat,onarim,kapi sayisi,kisi sayisi,bagaj boyutu,Guvenlik,satis 
+çok yüksek,çok yüksek,2,2,küçük,düþük,zor
+çok yüksek,çok yüksek,2,2,küçük,orta,zor
+çok yüksek,çok yüksek,2,2,küçük,yüksek,zor
+çok yüksek,çok yüksek,2,2,orta,düþük,zor
+çok yüksek,çok yüksek,2,2,orta,orta,zor
+çok yüksek,çok yüksek,2,2,orta,yüksek,zor
+çok yüksek,çok yüksek,2,2,büyük,düþük,zor
+çok yüksek,çok yüksek,2,2,büyük,orta,zor
+çok yüksek,çok yüksek,2,2,büyük,yüksek,zor
+çok yüksek,çok yüksek,2,4,küçük,düþük,zor
+çok yüksek,çok yüksek,2,4,küçük,orta,zor
+çok yüksek,çok yüksek,2,4,küçük,yüksek,zor
+çok yüksek,çok yüksek,2,4,orta,düþük,zor
+çok yüksek,çok yüksek,2,4,orta,orta,zor
+çok yüksek,çok yüksek,2,4,orta,yüksek,zor
+çok yüksek,çok yüksek,2,4,büyük,düþük,zor
+çok yüksek,çok yüksek,2,4,büyük,orta,zor
+çok yüksek,çok yüksek,2,4,büyük,yüksek,zor
+çok yüksek,çok yüksek,2,4 den fazla,küçük,düþük,zor
+çok yüksek,çok yüksek,2,4 den fazla,küçük,orta,zor
+çok yüksek,çok yüksek,2,4 den fazla,küçük,yüksek,zor
+çok yüksek,çok yüksek,2,4 den fazla,orta,düþük,zor
+çok yüksek,çok yüksek,2,4 den fazla,orta,orta,zor
+çok yüksek,çok yüksek,2,4 den fazla,orta,yüksek,zor
+çok yüksek,çok yüksek,2,4 den fazla,büyük,düþük,zor
+çok yüksek,çok yüksek,2,4 den fazla,büyük,orta,zor
+çok yüksek,çok yüksek,2,4 den fazla,büyük,yüksek,zor
+çok yüksek,çok yüksek,3,2,küçük,düþük,zor
+çok yüksek,çok yüksek,3,2,küçük,orta,zor
+çok yüksek,çok yüksek,3,2,küçük,yüksek,zor
+çok yüksek,çok yüksek,3,2,orta,düþük,zor
+çok yüksek,çok yüksek,3,2,orta,orta,zor
+çok yüksek,çok yüksek,3,2,orta,yüksek,zor
+çok yüksek,çok yüksek,3,2,büyük,düþük,zor
+çok yüksek,çok yüksek,3,2,büyük,orta,zor
+çok yüksek,çok yüksek,3,2,büyük,yüksek,zor
+çok yüksek,çok yüksek,3,4,küçük,düþük,zor
+çok yüksek,çok yüksek,3,4,küçük,orta,zor
+çok yüksek,çok yüksek,3,4,küçük,yüksek,zor
+çok yüksek,çok yüksek,3,4,orta,düþük,zor
+çok yüksek,çok yüksek,3,4,orta,orta,zor
+çok yüksek,çok yüksek,3,4,orta,yüksek,zor
+çok yüksek,çok yüksek,3,4,büyük,düþük,zor
+çok yüksek,çok yüksek,3,4,büyük,orta,zor
+çok yüksek,çok yüksek,3,4,büyük,yüksek,zor
+çok yüksek,çok yüksek,3,4 den fazla,küçük,düþük,zor
+çok yüksek,çok yüksek,3,4 den fazla,küçük,orta,zor
+çok yüksek,çok yüksek,3,4 den fazla,küçük,yüksek,zor
+çok yüksek,çok yüksek,3,4 den fazla,orta,düþük,zor
+çok yüksek,çok yüksek,3,4 den fazla,orta,orta,zor
+çok yüksek,çok yüksek,3,4 den fazla,orta,yüksek,zor
+çok yüksek,çok yüksek,3,4 den fazla,büyük,düþük,zor
+çok yüksek,çok yüksek,3,4 den fazla,büyük,orta,zor
+çok yüksek,çok yüksek,3,4 den fazla,büyük,yüksek,zor
+çok yüksek,çok yüksek,4,2,küçük,düþük,zor
+çok yüksek,çok yüksek,4,2,küçük,orta,zor
+çok yüksek,çok yüksek,4,2,küçük,yüksek,zor
+çok yüksek,çok yüksek,4,2,orta,düþük,zor
+çok yüksek,çok yüksek,4,2,orta,orta,zor
+çok yüksek,çok yüksek,4,2,orta,yüksek,zor
+çok yüksek,çok yüksek,4,2,büyük,düþük,zor
+çok yüksek,çok yüksek,4,2,büyük,orta,zor
+çok yüksek,çok yüksek,4,2,büyük,yüksek,zor
+çok yüksek,çok yüksek,4,4,küçük,düþük,zor
+çok yüksek,çok yüksek,4,4,küçük,orta,zor
+çok yüksek,çok yüksek,4,4,küçük,yüksek,zor
+çok yüksek,çok yüksek,4,4,orta,düþük,zor
+çok yüksek,çok yüksek,4,4,orta,orta,zor
+çok yüksek,çok yüksek,4,4,orta,yüksek,zor
+çok yüksek,çok yüksek,4,4,büyük,düþük,zor
+çok yüksek,çok yüksek,4,4,büyük,orta,zor
+çok yüksek,çok yüksek,4,4,büyük,yüksek,zor
+çok yüksek,çok yüksek,4,4 den fazla,küçük,düþük,zor
+çok yüksek,çok yüksek,4,4 den fazla,küçük,orta,zor
+çok yüksek,çok yüksek,4,4 den fazla,küçük,yüksek,zor
+çok yüksek,çok yüksek,4,4 den fazla,orta,düþük,zor
+çok yüksek,çok yüksek,4,4 den fazla,orta,orta,zor
+çok yüksek,çok yüksek,4,4 den fazla,orta,yüksek,zor
+çok yüksek,çok yüksek,4,4 den fazla,büyük,düþük,zor
+çok yüksek,çok yüksek,4,4 den fazla,büyük,orta,zor
+çok yüksek,çok yüksek,4,4 den fazla,büyük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,2,küçük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,2,küçük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,2,küçük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,2,orta,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,2,orta,orta,zor
+çok yüksek,çok yüksek,5 den fazla,2,orta,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,2,büyük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,2,büyük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,2,büyük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4,küçük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4,küçük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4,küçük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4,orta,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4,orta,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4,orta,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4,büyük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4,büyük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4,büyük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,orta,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,orta,yüksek,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,orta,zor
+çok yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,yüksek,zor
+çok yüksek,yüksek,2,2,küçük,düþük,zor
+çok yüksek,yüksek,2,2,küçük,orta,zor
+çok yüksek,yüksek,2,2,küçük,yüksek,zor
+çok yüksek,yüksek,2,2,orta,düþük,zor
+çok yüksek,yüksek,2,2,orta,orta,zor
+çok yüksek,yüksek,2,2,orta,yüksek,zor
+çok yüksek,yüksek,2,2,büyük,düþük,zor
+çok yüksek,yüksek,2,2,büyük,orta,zor
+çok yüksek,yüksek,2,2,büyük,yüksek,zor
+çok yüksek,yüksek,2,4,küçük,düþük,zor
+çok yüksek,yüksek,2,4,küçük,orta,zor
+çok yüksek,yüksek,2,4,küçük,yüksek,zor
+çok yüksek,yüksek,2,4,orta,düþük,zor
+çok yüksek,yüksek,2,4,orta,orta,zor
+çok yüksek,yüksek,2,4,orta,yüksek,zor
+çok yüksek,yüksek,2,4,büyük,düþük,zor
+çok yüksek,yüksek,2,4,büyük,orta,zor
+çok yüksek,yüksek,2,4,büyük,yüksek,zor
+çok yüksek,yüksek,2,4 den fazla,küçük,düþük,zor
+çok yüksek,yüksek,2,4 den fazla,küçük,orta,zor
+çok yüksek,yüksek,2,4 den fazla,küçük,yüksek,zor
+çok yüksek,yüksek,2,4 den fazla,orta,düþük,zor
+çok yüksek,yüksek,2,4 den fazla,orta,orta,zor
+çok yüksek,yüksek,2,4 den fazla,orta,yüksek,zor
+çok yüksek,yüksek,2,4 den fazla,büyük,düþük,zor
+çok yüksek,yüksek,2,4 den fazla,büyük,orta,zor
+çok yüksek,yüksek,2,4 den fazla,büyük,yüksek,zor
+çok yüksek,yüksek,3,2,küçük,düþük,zor
+çok yüksek,yüksek,3,2,küçük,orta,zor
+çok yüksek,yüksek,3,2,küçük,yüksek,zor
+çok yüksek,yüksek,3,2,orta,düþük,zor
+çok yüksek,yüksek,3,2,orta,orta,zor
+çok yüksek,yüksek,3,2,orta,yüksek,zor
+çok yüksek,yüksek,3,2,büyük,düþük,zor
+çok yüksek,yüksek,3,2,büyük,orta,zor
+çok yüksek,yüksek,3,2,büyük,yüksek,zor
+çok yüksek,yüksek,3,4,küçük,düþük,zor
+çok yüksek,yüksek,3,4,küçük,orta,zor
+çok yüksek,yüksek,3,4,küçük,yüksek,zor
+çok yüksek,yüksek,3,4,orta,düþük,zor
+çok yüksek,yüksek,3,4,orta,orta,zor
+çok yüksek,yüksek,3,4,orta,yüksek,zor
+çok yüksek,yüksek,3,4,büyük,düþük,zor
+çok yüksek,yüksek,3,4,büyük,orta,zor
+çok yüksek,yüksek,3,4,büyük,yüksek,zor
+çok yüksek,yüksek,3,4 den fazla,küçük,düþük,zor
+çok yüksek,yüksek,3,4 den fazla,küçük,orta,zor
+çok yüksek,yüksek,3,4 den fazla,küçük,yüksek,zor
+çok yüksek,yüksek,3,4 den fazla,orta,düþük,zor
+çok yüksek,yüksek,3,4 den fazla,orta,orta,zor
+çok yüksek,yüksek,3,4 den fazla,orta,yüksek,zor
+çok yüksek,yüksek,3,4 den fazla,büyük,düþük,zor
+çok yüksek,yüksek,3,4 den fazla,büyük,orta,zor
+çok yüksek,yüksek,3,4 den fazla,büyük,yüksek,zor
+çok yüksek,yüksek,4,2,küçük,düþük,zor
+çok yüksek,yüksek,4,2,küçük,orta,zor
+çok yüksek,yüksek,4,2,küçük,yüksek,zor
+çok yüksek,yüksek,4,2,orta,düþük,zor
+çok yüksek,yüksek,4,2,orta,orta,zor
+çok yüksek,yüksek,4,2,orta,yüksek,zor
+çok yüksek,yüksek,4,2,büyük,düþük,zor
+çok yüksek,yüksek,4,2,büyük,orta,zor
+çok yüksek,yüksek,4,2,büyük,yüksek,zor
+çok yüksek,yüksek,4,4,küçük,düþük,zor
+çok yüksek,yüksek,4,4,küçük,orta,zor
+çok yüksek,yüksek,4,4,küçük,yüksek,zor
+çok yüksek,yüksek,4,4,orta,düþük,zor
+çok yüksek,yüksek,4,4,orta,orta,zor
+çok yüksek,yüksek,4,4,orta,yüksek,zor
+çok yüksek,yüksek,4,4,büyük,düþük,zor
+çok yüksek,yüksek,4,4,büyük,orta,zor
+çok yüksek,yüksek,4,4,büyük,yüksek,zor
+çok yüksek,yüksek,4,4 den fazla,küçük,düþük,zor
+çok yüksek,yüksek,4,4 den fazla,küçük,orta,zor
+çok yüksek,yüksek,4,4 den fazla,küçük,yüksek,zor
+çok yüksek,yüksek,4,4 den fazla,orta,düþük,zor
+çok yüksek,yüksek,4,4 den fazla,orta,orta,zor
+çok yüksek,yüksek,4,4 den fazla,orta,yüksek,zor
+çok yüksek,yüksek,4,4 den fazla,büyük,düþük,zor
+çok yüksek,yüksek,4,4 den fazla,büyük,orta,zor
+çok yüksek,yüksek,4,4 den fazla,büyük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,2,küçük,düþük,zor
+çok yüksek,yüksek,5 den fazla,2,küçük,orta,zor
+çok yüksek,yüksek,5 den fazla,2,küçük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,2,orta,düþük,zor
+çok yüksek,yüksek,5 den fazla,2,orta,orta,zor
+çok yüksek,yüksek,5 den fazla,2,orta,yüksek,zor
+çok yüksek,yüksek,5 den fazla,2,büyük,düþük,zor
+çok yüksek,yüksek,5 den fazla,2,büyük,orta,zor
+çok yüksek,yüksek,5 den fazla,2,büyük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4,küçük,düþük,zor
+çok yüksek,yüksek,5 den fazla,4,küçük,orta,zor
+çok yüksek,yüksek,5 den fazla,4,küçük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4,orta,düþük,zor
+çok yüksek,yüksek,5 den fazla,4,orta,orta,zor
+çok yüksek,yüksek,5 den fazla,4,orta,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4,büyük,düþük,zor
+çok yüksek,yüksek,5 den fazla,4,büyük,orta,zor
+çok yüksek,yüksek,5 den fazla,4,büyük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,küçük,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,orta,orta,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,orta,yüksek,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,büyük,orta,zor
+çok yüksek,yüksek,5 den fazla,4 den fazla,büyük,yüksek,zor
+çok yüksek,orta,2,2,küçük,düþük,zor
+çok yüksek,orta,2,2,küçük,orta,zor
+çok yüksek,orta,2,2,küçük,yüksek,zor
+çok yüksek,orta,2,2,orta,düþük,zor
+çok yüksek,orta,2,2,orta,orta,zor
+çok yüksek,orta,2,2,orta,yüksek,zor
+çok yüksek,orta,2,2,büyük,düþük,zor
+çok yüksek,orta,2,2,büyük,orta,zor
+çok yüksek,orta,2,2,büyük,yüksek,zor
+çok yüksek,orta,2,4,küçük,düþük,zor
+çok yüksek,orta,2,4,küçük,orta,zor
+çok yüksek,orta,2,4,küçük,yüksek,normal
+çok yüksek,orta,2,4,orta,düþük,zor
+çok yüksek,orta,2,4,orta,orta,zor
+çok yüksek,orta,2,4,orta,yüksek,normal
+çok yüksek,orta,2,4,büyük,düþük,zor
+çok yüksek,orta,2,4,büyük,orta,normal
+çok yüksek,orta,2,4,büyük,yüksek,normal
+çok yüksek,orta,2,4 den fazla,küçük,düþük,zor
+çok yüksek,orta,2,4 den fazla,küçük,orta,zor
+çok yüksek,orta,2,4 den fazla,küçük,yüksek,zor
+çok yüksek,orta,2,4 den fazla,orta,düþük,zor
+çok yüksek,orta,2,4 den fazla,orta,orta,zor
+çok yüksek,orta,2,4 den fazla,orta,yüksek,normal
+çok yüksek,orta,2,4 den fazla,büyük,düþük,zor
+çok yüksek,orta,2,4 den fazla,büyük,orta,normal
+çok yüksek,orta,2,4 den fazla,büyük,yüksek,normal
+çok yüksek,orta,3,2,küçük,düþük,zor
+çok yüksek,orta,3,2,küçük,orta,zor
+çok yüksek,orta,3,2,küçük,yüksek,zor
+çok yüksek,orta,3,2,orta,düþük,zor
+çok yüksek,orta,3,2,orta,orta,zor
+çok yüksek,orta,3,2,orta,yüksek,zor
+çok yüksek,orta,3,2,büyük,düþük,zor
+çok yüksek,orta,3,2,büyük,orta,zor
+çok yüksek,orta,3,2,büyük,yüksek,zor
+çok yüksek,orta,3,4,küçük,düþük,zor
+çok yüksek,orta,3,4,küçük,orta,zor
+çok yüksek,orta,3,4,küçük,yüksek,normal
+çok yüksek,orta,3,4,orta,düþük,zor
+çok yüksek,orta,3,4,orta,orta,zor
+çok yüksek,orta,3,4,orta,yüksek,normal
+çok yüksek,orta,3,4,büyük,düþük,zor
+çok yüksek,orta,3,4,büyük,orta,normal
+çok yüksek,orta,3,4,büyük,yüksek,normal
+çok yüksek,orta,3,4 den fazla,küçük,düþük,zor
+çok yüksek,orta,3,4 den fazla,küçük,orta,zor
+çok yüksek,orta,3,4 den fazla,küçük,yüksek,normal
+çok yüksek,orta,3,4 den fazla,orta,düþük,zor
+çok yüksek,orta,3,4 den fazla,orta,orta,normal
+çok yüksek,orta,3,4 den fazla,orta,yüksek,normal
+çok yüksek,orta,3,4 den fazla,büyük,düþük,zor
+çok yüksek,orta,3,4 den fazla,büyük,orta,normal
+çok yüksek,orta,3,4 den fazla,büyük,yüksek,normal
+çok yüksek,orta,4,2,küçük,düþük,zor
+çok yüksek,orta,4,2,küçük,orta,zor
+çok yüksek,orta,4,2,küçük,yüksek,zor
+çok yüksek,orta,4,2,orta,düþük,zor
+çok yüksek,orta,4,2,orta,orta,zor
+çok yüksek,orta,4,2,orta,yüksek,zor
+çok yüksek,orta,4,2,büyük,düþük,zor
+çok yüksek,orta,4,2,büyük,orta,zor
+çok yüksek,orta,4,2,büyük,yüksek,zor
+çok yüksek,orta,4,4,küçük,düþük,zor
+çok yüksek,orta,4,4,küçük,orta,zor
+çok yüksek,orta,4,4,küçük,yüksek,normal
+çok yüksek,orta,4,4,orta,düþük,zor
+çok yüksek,orta,4,4,orta,orta,normal
+çok yüksek,orta,4,4,orta,yüksek,normal
+çok yüksek,orta,4,4,büyük,düþük,zor
+çok yüksek,orta,4,4,büyük,orta,normal
+çok yüksek,orta,4,4,büyük,yüksek,normal
+çok yüksek,orta,4,4 den fazla,küçük,düþük,zor
+çok yüksek,orta,4,4 den fazla,küçük,orta,zor
+çok yüksek,orta,4,4 den fazla,küçük,yüksek,normal
+çok yüksek,orta,4,4 den fazla,orta,düþük,zor
+çok yüksek,orta,4,4 den fazla,orta,orta,normal
+çok yüksek,orta,4,4 den fazla,orta,yüksek,normal
+çok yüksek,orta,4,4 den fazla,büyük,düþük,zor
+çok yüksek,orta,4,4 den fazla,büyük,orta,normal
+çok yüksek,orta,4,4 den fazla,büyük,yüksek,normal
+çok yüksek,orta,5 den fazla,2,küçük,düþük,zor
+çok yüksek,orta,5 den fazla,2,küçük,orta,zor
+çok yüksek,orta,5 den fazla,2,küçük,yüksek,zor
+çok yüksek,orta,5 den fazla,2,orta,düþük,zor
+çok yüksek,orta,5 den fazla,2,orta,orta,zor
+çok yüksek,orta,5 den fazla,2,orta,yüksek,zor
+çok yüksek,orta,5 den fazla,2,büyük,düþük,zor
+çok yüksek,orta,5 den fazla,2,büyük,orta,zor
+çok yüksek,orta,5 den fazla,2,büyük,yüksek,zor
+çok yüksek,orta,5 den fazla,4,küçük,düþük,zor
+çok yüksek,orta,5 den fazla,4,küçük,orta,zor
+çok yüksek,orta,5 den fazla,4,küçük,yüksek,normal
+çok yüksek,orta,5 den fazla,4,orta,düþük,zor
+çok yüksek,orta,5 den fazla,4,orta,orta,normal
+çok yüksek,orta,5 den fazla,4,orta,yüksek,normal
+çok yüksek,orta,5 den fazla,4,büyük,düþük,zor
+çok yüksek,orta,5 den fazla,4,büyük,orta,normal
+çok yüksek,orta,5 den fazla,4,büyük,yüksek,normal
+çok yüksek,orta,5 den fazla,4 den fazla,küçük,düþük,zor
+çok yüksek,orta,5 den fazla,4 den fazla,küçük,orta,zor
+çok yüksek,orta,5 den fazla,4 den fazla,küçük,yüksek,normal
+çok yüksek,orta,5 den fazla,4 den fazla,orta,düþük,zor
+çok yüksek,orta,5 den fazla,4 den fazla,orta,orta,normal
+çok yüksek,orta,5 den fazla,4 den fazla,orta,yüksek,normal
+çok yüksek,orta,5 den fazla,4 den fazla,büyük,düþük,zor
+çok yüksek,orta,5 den fazla,4 den fazla,büyük,orta,normal
+çok yüksek,orta,5 den fazla,4 den fazla,büyük,yüksek,normal
+çok yüksek,düþük,2,2,küçük,düþük,zor
+çok yüksek,düþük,2,2,küçük,orta,zor
+çok yüksek,düþük,2,2,küçük,yüksek,zor
+çok yüksek,düþük,2,2,orta,düþük,zor
+çok yüksek,düþük,2,2,orta,orta,zor
+çok yüksek,düþük,2,2,orta,yüksek,zor
+çok yüksek,düþük,2,2,büyük,düþük,zor
+çok yüksek,düþük,2,2,büyük,orta,zor
+çok yüksek,düþük,2,2,büyük,yüksek,zor
+çok yüksek,düþük,2,4,küçük,düþük,zor
+çok yüksek,düþük,2,4,küçük,orta,zor
+çok yüksek,düþük,2,4,küçük,yüksek,normal
+çok yüksek,düþük,2,4,orta,düþük,zor
+çok yüksek,düþük,2,4,orta,orta,zor
+çok yüksek,düþük,2,4,orta,yüksek,normal
+çok yüksek,düþük,2,4,büyük,düþük,zor
+çok yüksek,düþük,2,4,büyük,orta,normal
+çok yüksek,düþük,2,4,büyük,yüksek,normal
+çok yüksek,düþük,2,4 den fazla,küçük,düþük,zor
+çok yüksek,düþük,2,4 den fazla,küçük,orta,zor
+çok yüksek,düþük,2,4 den fazla,küçük,yüksek,zor
+çok yüksek,düþük,2,4 den fazla,orta,düþük,zor
+çok yüksek,düþük,2,4 den fazla,orta,orta,zor
+çok yüksek,düþük,2,4 den fazla,orta,yüksek,normal
+çok yüksek,düþük,2,4 den fazla,büyük,düþük,zor
+çok yüksek,düþük,2,4 den fazla,büyük,orta,normal
+çok yüksek,düþük,2,4 den fazla,büyük,yüksek,normal
+çok yüksek,düþük,3,2,küçük,düþük,zor
+çok yüksek,düþük,3,2,küçük,orta,zor
+çok yüksek,düþük,3,2,küçük,yüksek,zor
+çok yüksek,düþük,3,2,orta,düþük,zor
+çok yüksek,düþük,3,2,orta,orta,zor
+çok yüksek,düþük,3,2,orta,yüksek,zor
+çok yüksek,düþük,3,2,büyük,düþük,zor
+çok yüksek,düþük,3,2,büyük,orta,zor
+çok yüksek,düþük,3,2,büyük,yüksek,zor
+çok yüksek,düþük,3,4,küçük,düþük,zor
+çok yüksek,düþük,3,4,küçük,orta,zor
+çok yüksek,düþük,3,4,küçük,yüksek,normal
+çok yüksek,düþük,3,4,orta,düþük,zor
+çok yüksek,düþük,3,4,orta,orta,zor
+çok yüksek,düþük,3,4,orta,yüksek,normal
+çok yüksek,düþük,3,4,büyük,düþük,zor
+çok yüksek,düþük,3,4,büyük,orta,normal
+çok yüksek,düþük,3,4,büyük,yüksek,normal
+çok yüksek,düþük,3,4 den fazla,küçük,düþük,zor
+çok yüksek,düþük,3,4 den fazla,küçük,orta,zor
+çok yüksek,düþük,3,4 den fazla,küçük,yüksek,normal
+çok yüksek,düþük,3,4 den fazla,orta,düþük,zor
+çok yüksek,düþük,3,4 den fazla,orta,orta,normal
+çok yüksek,düþük,3,4 den fazla,orta,yüksek,normal
+çok yüksek,düþük,3,4 den fazla,büyük,düþük,zor
+çok yüksek,düþük,3,4 den fazla,büyük,orta,normal
+çok yüksek,düþük,3,4 den fazla,büyük,yüksek,normal
+çok yüksek,düþük,4,2,küçük,düþük,zor
+çok yüksek,düþük,4,2,küçük,orta,zor
+çok yüksek,düþük,4,2,küçük,yüksek,zor
+çok yüksek,düþük,4,2,orta,düþük,zor
+çok yüksek,düþük,4,2,orta,orta,zor
+çok yüksek,düþük,4,2,orta,yüksek,zor
+çok yüksek,düþük,4,2,büyük,düþük,zor
+çok yüksek,düþük,4,2,büyük,orta,zor
+çok yüksek,düþük,4,2,büyük,yüksek,zor
+çok yüksek,düþük,4,4,küçük,düþük,zor
+çok yüksek,düþük,4,4,küçük,orta,zor
+çok yüksek,düþük,4,4,küçük,yüksek,normal
+çok yüksek,düþük,4,4,orta,düþük,zor
+çok yüksek,düþük,4,4,orta,orta,normal
+çok yüksek,düþük,4,4,orta,yüksek,normal
+çok yüksek,düþük,4,4,büyük,düþük,zor
+çok yüksek,düþük,4,4,büyük,orta,normal
+çok yüksek,düþük,4,4,büyük,yüksek,normal
+çok yüksek,düþük,4,4 den fazla,küçük,düþük,zor
+çok yüksek,düþük,4,4 den fazla,küçük,orta,zor
+çok yüksek,düþük,4,4 den fazla,küçük,yüksek,normal
+çok yüksek,düþük,4,4 den fazla,orta,düþük,zor
+çok yüksek,düþük,4,4 den fazla,orta,orta,normal
+çok yüksek,düþük,4,4 den fazla,orta,yüksek,normal
+çok yüksek,düþük,4,4 den fazla,büyük,düþük,zor
+çok yüksek,düþük,4,4 den fazla,büyük,orta,normal
+çok yüksek,düþük,4,4 den fazla,büyük,yüksek,normal
+çok yüksek,düþük,5 den fazla,2,küçük,düþük,zor
+çok yüksek,düþük,5 den fazla,2,küçük,orta,zor
+çok yüksek,düþük,5 den fazla,2,küçük,yüksek,zor
+çok yüksek,düþük,5 den fazla,2,orta,düþük,zor
+çok yüksek,düþük,5 den fazla,2,orta,orta,zor
+çok yüksek,düþük,5 den fazla,2,orta,yüksek,zor
+çok yüksek,düþük,5 den fazla,2,büyük,düþük,zor
+çok yüksek,düþük,5 den fazla,2,büyük,orta,zor
+çok yüksek,düþük,5 den fazla,2,büyük,yüksek,zor
+çok yüksek,düþük,5 den fazla,4,küçük,düþük,zor
+çok yüksek,düþük,5 den fazla,4,küçük,orta,zor
+çok yüksek,düþük,5 den fazla,4,küçük,yüksek,normal
+çok yüksek,düþük,5 den fazla,4,orta,düþük,zor
+çok yüksek,düþük,5 den fazla,4,orta,orta,normal
+çok yüksek,düþük,5 den fazla,4,orta,yüksek,normal
+çok yüksek,düþük,5 den fazla,4,büyük,düþük,zor
+çok yüksek,düþük,5 den fazla,4,büyük,orta,normal
+çok yüksek,düþük,5 den fazla,4,büyük,yüksek,normal
+çok yüksek,düþük,5 den fazla,4 den fazla,küçük,düþük,zor
+çok yüksek,düþük,5 den fazla,4 den fazla,küçük,orta,zor
+çok yüksek,düþük,5 den fazla,4 den fazla,küçük,yüksek,normal
+çok yüksek,düþük,5 den fazla,4 den fazla,orta,düþük,zor
+çok yüksek,düþük,5 den fazla,4 den fazla,orta,orta,normal
+çok yüksek,düþük,5 den fazla,4 den fazla,orta,yüksek,normal
+çok yüksek,düþük,5 den fazla,4 den fazla,büyük,düþük,zor
+çok yüksek,düþük,5 den fazla,4 den fazla,büyük,orta,normal
+çok yüksek,düþük,5 den fazla,4 den fazla,büyük,yüksek,normal
+yüksek,çok yüksek,2,2,küçük,düþük,zor
+yüksek,çok yüksek,2,2,küçük,orta,zor
+yüksek,çok yüksek,2,2,küçük,yüksek,zor
+yüksek,çok yüksek,2,2,orta,düþük,zor
+yüksek,çok yüksek,2,2,orta,orta,zor
+yüksek,çok yüksek,2,2,orta,yüksek,zor
+yüksek,çok yüksek,2,2,büyük,düþük,zor
+yüksek,çok yüksek,2,2,büyük,orta,zor
+yüksek,çok yüksek,2,2,büyük,yüksek,zor
+yüksek,çok yüksek,2,4,küçük,düþük,zor
+yüksek,çok yüksek,2,4,küçük,orta,zor
+yüksek,çok yüksek,2,4,küçük,yüksek,zor
+yüksek,çok yüksek,2,4,orta,düþük,zor
+yüksek,çok yüksek,2,4,orta,orta,zor
+yüksek,çok yüksek,2,4,orta,yüksek,zor
+yüksek,çok yüksek,2,4,büyük,düþük,zor
+yüksek,çok yüksek,2,4,büyük,orta,zor
+yüksek,çok yüksek,2,4,büyük,yüksek,zor
+yüksek,çok yüksek,2,4 den fazla,küçük,düþük,zor
+yüksek,çok yüksek,2,4 den fazla,küçük,orta,zor
+yüksek,çok yüksek,2,4 den fazla,küçük,yüksek,zor
+yüksek,çok yüksek,2,4 den fazla,orta,düþük,zor
+yüksek,çok yüksek,2,4 den fazla,orta,orta,zor
+yüksek,çok yüksek,2,4 den fazla,orta,yüksek,zor
+yüksek,çok yüksek,2,4 den fazla,büyük,düþük,zor
+yüksek,çok yüksek,2,4 den fazla,büyük,orta,zor
+yüksek,çok yüksek,2,4 den fazla,büyük,yüksek,zor
+yüksek,çok yüksek,3,2,küçük,düþük,zor
+yüksek,çok yüksek,3,2,küçük,orta,zor
+yüksek,çok yüksek,3,2,küçük,yüksek,zor
+yüksek,çok yüksek,3,2,orta,düþük,zor
+yüksek,çok yüksek,3,2,orta,orta,zor
+yüksek,çok yüksek,3,2,orta,yüksek,zor
+yüksek,çok yüksek,3,2,büyük,düþük,zor
+yüksek,çok yüksek,3,2,büyük,orta,zor
+yüksek,çok yüksek,3,2,büyük,yüksek,zor
+yüksek,çok yüksek,3,4,küçük,düþük,zor
+yüksek,çok yüksek,3,4,küçük,orta,zor
+yüksek,çok yüksek,3,4,küçük,yüksek,zor
+yüksek,çok yüksek,3,4,orta,düþük,zor
+yüksek,çok yüksek,3,4,orta,orta,zor
+yüksek,çok yüksek,3,4,orta,yüksek,zor
+yüksek,çok yüksek,3,4,büyük,düþük,zor
+yüksek,çok yüksek,3,4,büyük,orta,zor
+yüksek,çok yüksek,3,4,büyük,yüksek,zor
+yüksek,çok yüksek,3,4 den fazla,küçük,düþük,zor
+yüksek,çok yüksek,3,4 den fazla,küçük,orta,zor
+yüksek,çok yüksek,3,4 den fazla,küçük,yüksek,zor
+yüksek,çok yüksek,3,4 den fazla,orta,düþük,zor
+yüksek,çok yüksek,3,4 den fazla,orta,orta,zor
+yüksek,çok yüksek,3,4 den fazla,orta,yüksek,zor
+yüksek,çok yüksek,3,4 den fazla,büyük,düþük,zor
+yüksek,çok yüksek,3,4 den fazla,büyük,orta,zor
+yüksek,çok yüksek,3,4 den fazla,büyük,yüksek,zor
+yüksek,çok yüksek,4,2,küçük,düþük,zor
+yüksek,çok yüksek,4,2,küçük,orta,zor
+yüksek,çok yüksek,4,2,küçük,yüksek,zor
+yüksek,çok yüksek,4,2,orta,düþük,zor
+yüksek,çok yüksek,4,2,orta,orta,zor
+yüksek,çok yüksek,4,2,orta,yüksek,zor
+yüksek,çok yüksek,4,2,büyük,düþük,zor
+yüksek,çok yüksek,4,2,büyük,orta,zor
+yüksek,çok yüksek,4,2,büyük,yüksek,zor
+yüksek,çok yüksek,4,4,küçük,düþük,zor
+yüksek,çok yüksek,4,4,küçük,orta,zor
+yüksek,çok yüksek,4,4,küçük,yüksek,zor
+yüksek,çok yüksek,4,4,orta,düþük,zor
+yüksek,çok yüksek,4,4,orta,orta,zor
+yüksek,çok yüksek,4,4,orta,yüksek,zor
+yüksek,çok yüksek,4,4,büyük,düþük,zor
+yüksek,çok yüksek,4,4,büyük,orta,zor
+yüksek,çok yüksek,4,4,büyük,yüksek,zor
+yüksek,çok yüksek,4,4 den fazla,küçük,düþük,zor
+yüksek,çok yüksek,4,4 den fazla,küçük,orta,zor
+yüksek,çok yüksek,4,4 den fazla,küçük,yüksek,zor
+yüksek,çok yüksek,4,4 den fazla,orta,düþük,zor
+yüksek,çok yüksek,4,4 den fazla,orta,orta,zor
+yüksek,çok yüksek,4,4 den fazla,orta,yüksek,zor
+yüksek,çok yüksek,4,4 den fazla,büyük,düþük,zor
+yüksek,çok yüksek,4,4 den fazla,büyük,orta,zor
+yüksek,çok yüksek,4,4 den fazla,büyük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,2,küçük,düþük,zor
+yüksek,çok yüksek,5 den fazla,2,küçük,orta,zor
+yüksek,çok yüksek,5 den fazla,2,küçük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,2,orta,düþük,zor
+yüksek,çok yüksek,5 den fazla,2,orta,orta,zor
+yüksek,çok yüksek,5 den fazla,2,orta,yüksek,zor
+yüksek,çok yüksek,5 den fazla,2,büyük,düþük,zor
+yüksek,çok yüksek,5 den fazla,2,büyük,orta,zor
+yüksek,çok yüksek,5 den fazla,2,büyük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4,küçük,düþük,zor
+yüksek,çok yüksek,5 den fazla,4,küçük,orta,zor
+yüksek,çok yüksek,5 den fazla,4,küçük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4,orta,düþük,zor
+yüksek,çok yüksek,5 den fazla,4,orta,orta,zor
+yüksek,çok yüksek,5 den fazla,4,orta,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4,büyük,düþük,zor
+yüksek,çok yüksek,5 den fazla,4,büyük,orta,zor
+yüksek,çok yüksek,5 den fazla,4,büyük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,küçük,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,orta,orta,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,orta,yüksek,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,orta,zor
+yüksek,çok yüksek,5 den fazla,4 den fazla,büyük,yüksek,zor
+yüksek,yüksek,2,2,küçük,düþük,zor
+yüksek,yüksek,2,2,küçük,orta,zor
+yüksek,yüksek,2,2,küçük,yüksek,zor
+yüksek,yüksek,2,2,orta,düþük,zor
+yüksek,yüksek,2,2,orta,orta,zor
+yüksek,yüksek,2,2,orta,yüksek,zor
+yüksek,yüksek,2,2,büyük,düþük,zor
+yüksek,yüksek,2,2,büyük,orta,zor
+yüksek,yüksek,2,2,büyük,yüksek,zor
+yüksek,yüksek,2,4,küçük,düþük,zor
+yüksek,yüksek,2,4,küçük,orta,zor
+yüksek,yüksek,2,4,küçük,yüksek,normal
+yüksek,yüksek,2,4,orta,düþük,zor
+yüksek,yüksek,2,4,orta,orta,zor
+yüksek,yüksek,2,4,orta,yüksek,normal
+yüksek,yüksek,2,4,büyük,düþük,zor
+yüksek,yüksek,2,4,büyük,orta,normal
+yüksek,yüksek,2,4,büyük,yüksek,normal
+yüksek,yüksek,2,4 den fazla,küçük,düþük,zor
+yüksek,yüksek,2,4 den fazla,küçük,orta,zor
+yüksek,yüksek,2,4 den fazla,küçük,yüksek,zor
+yüksek,yüksek,2,4 den fazla,orta,düþük,zor
+yüksek,yüksek,2,4 den fazla,orta,orta,zor
+yüksek,yüksek,2,4 den fazla,orta,yüksek,normal
+yüksek,yüksek,2,4 den fazla,büyük,düþük,zor
+yüksek,yüksek,2,4 den fazla,büyük,orta,normal
+yüksek,yüksek,2,4 den fazla,büyük,yüksek,normal
+yüksek,yüksek,3,2,küçük,düþük,zor
+yüksek,yüksek,3,2,küçük,orta,zor
+yüksek,yüksek,3,2,küçük,yüksek,zor
+yüksek,yüksek,3,2,orta,düþük,zor
+yüksek,yüksek,3,2,orta,orta,zor
+yüksek,yüksek,3,2,orta,yüksek,zor
+yüksek,yüksek,3,2,büyük,düþük,zor
+yüksek,yüksek,3,2,büyük,orta,zor
+yüksek,yüksek,3,2,büyük,yüksek,zor
+yüksek,yüksek,3,4,küçük,düþük,zor
+yüksek,yüksek,3,4,küçük,orta,zor
+yüksek,yüksek,3,4,küçük,yüksek,normal
+yüksek,yüksek,3,4,orta,düþük,zor
+yüksek,yüksek,3,4,orta,orta,zor
+yüksek,yüksek,3,4,orta,yüksek,normal
+yüksek,yüksek,3,4,büyük,düþük,zor
+yüksek,yüksek,3,4,büyük,orta,normal
+yüksek,yüksek,3,4,büyük,yüksek,normal
+yüksek,yüksek,3,4 den fazla,küçük,düþük,zor
+yüksek,yüksek,3,4 den fazla,küçük,orta,zor
+yüksek,yüksek,3,4 den fazla,küçük,yüksek,normal
+yüksek,yüksek,3,4 den fazla,orta,düþük,zor
+yüksek,yüksek,3,4 den fazla,orta,orta,normal
+yüksek,yüksek,3,4 den fazla,orta,yüksek,normal
+yüksek,yüksek,3,4 den fazla,büyük,düþük,zor
+yüksek,yüksek,3,4 den fazla,büyük,orta,normal
+yüksek,yüksek,3,4 den fazla,büyük,yüksek,normal
+yüksek,yüksek,4,2,küçük,düþük,zor
+yüksek,yüksek,4,2,küçük,orta,zor
+yüksek,yüksek,4,2,küçük,yüksek,zor
+yüksek,yüksek,4,2,orta,düþük,zor
+yüksek,yüksek,4,2,orta,orta,zor
+yüksek,yüksek,4,2,orta,yüksek,zor
+yüksek,yüksek,4,2,büyük,düþük,zor
+yüksek,yüksek,4,2,büyük,orta,zor
+yüksek,yüksek,4,2,büyük,yüksek,zor
+yüksek,yüksek,4,4,küçük,düþük,zor
+yüksek,yüksek,4,4,küçük,orta,zor
+yüksek,yüksek,4,4,küçük,yüksek,normal
+yüksek,yüksek,4,4,orta,düþük,zor
+yüksek,yüksek,4,4,orta,orta,normal
+yüksek,yüksek,4,4,orta,yüksek,normal
+yüksek,yüksek,4,4,büyük,düþük,zor
+yüksek,yüksek,4,4,büyük,orta,normal
+yüksek,yüksek,4,4,büyük,yüksek,normal
+yüksek,yüksek,4,4 den fazla,küçük,düþük,zor
+yüksek,yüksek,4,4 den fazla,küçük,orta,zor
+yüksek,yüksek,4,4 den fazla,küçük,yüksek,normal
+yüksek,yüksek,4,4 den fazla,orta,düþük,zor
+yüksek,yüksek,4,4 den fazla,orta,orta,normal
+yüksek,yüksek,4,4 den fazla,orta,yüksek,normal
+yüksek,yüksek,4,4 den fazla,büyük,düþük,zor
+yüksek,yüksek,4,4 den fazla,büyük,orta,normal
+yüksek,yüksek,4,4 den fazla,büyük,yüksek,normal
+yüksek,yüksek,5 den fazla,2,küçük,düþük,zor
+yüksek,yüksek,5 den fazla,2,küçük,orta,zor
+yüksek,yüksek,5 den fazla,2,küçük,yüksek,zor
+yüksek,yüksek,5 den fazla,2,orta,düþük,zor
+yüksek,yüksek,5 den fazla,2,orta,orta,zor
+yüksek,yüksek,5 den fazla,2,orta,yüksek,zor
+yüksek,yüksek,5 den fazla,2,büyük,düþük,zor
+yüksek,yüksek,5 den fazla,2,büyük,orta,zor
+yüksek,yüksek,5 den fazla,2,büyük,yüksek,zor
+yüksek,yüksek,5 den fazla,4,küçük,düþük,zor
+yüksek,yüksek,5 den fazla,4,küçük,orta,zor
+yüksek,yüksek,5 den fazla,4,küçük,yüksek,normal
+yüksek,yüksek,5 den fazla,4,orta,düþük,zor
+yüksek,yüksek,5 den fazla,4,orta,orta,normal
+yüksek,yüksek,5 den fazla,4,orta,yüksek,normal
+yüksek,yüksek,5 den fazla,4,büyük,düþük,zor
+yüksek,yüksek,5 den fazla,4,büyük,orta,normal
+yüksek,yüksek,5 den fazla,4,büyük,yüksek,normal
+yüksek,yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+yüksek,yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+yüksek,yüksek,5 den fazla,4 den fazla,küçük,yüksek,normal
+yüksek,yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+yüksek,yüksek,5 den fazla,4 den fazla,orta,orta,normal
+yüksek,yüksek,5 den fazla,4 den fazla,orta,yüksek,normal
+yüksek,yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+yüksek,yüksek,5 den fazla,4 den fazla,büyük,orta,normal
+yüksek,yüksek,5 den fazla,4 den fazla,büyük,yüksek,normal
+yüksek,orta,2,2,küçük,düþük,zor
+yüksek,orta,2,2,küçük,orta,zor
+yüksek,orta,2,2,küçük,yüksek,zor
+yüksek,orta,2,2,orta,düþük,zor
+yüksek,orta,2,2,orta,orta,zor
+yüksek,orta,2,2,orta,yüksek,zor
+yüksek,orta,2,2,büyük,düþük,zor
+yüksek,orta,2,2,büyük,orta,zor
+yüksek,orta,2,2,büyük,yüksek,zor
+yüksek,orta,2,4,küçük,düþük,zor
+yüksek,orta,2,4,küçük,orta,zor
+yüksek,orta,2,4,küçük,yüksek,normal
+yüksek,orta,2,4,orta,düþük,zor
+yüksek,orta,2,4,orta,orta,zor
+yüksek,orta,2,4,orta,yüksek,normal
+yüksek,orta,2,4,büyük,düþük,zor
+yüksek,orta,2,4,büyük,orta,normal
+yüksek,orta,2,4,büyük,yüksek,normal
+yüksek,orta,2,4 den fazla,küçük,düþük,zor
+yüksek,orta,2,4 den fazla,küçük,orta,zor
+yüksek,orta,2,4 den fazla,küçük,yüksek,zor
+yüksek,orta,2,4 den fazla,orta,düþük,zor
+yüksek,orta,2,4 den fazla,orta,orta,zor
+yüksek,orta,2,4 den fazla,orta,yüksek,normal
+yüksek,orta,2,4 den fazla,büyük,düþük,zor
+yüksek,orta,2,4 den fazla,büyük,orta,normal
+yüksek,orta,2,4 den fazla,büyük,yüksek,normal
+yüksek,orta,3,2,küçük,düþük,zor
+yüksek,orta,3,2,küçük,orta,zor
+yüksek,orta,3,2,küçük,yüksek,zor
+yüksek,orta,3,2,orta,düþük,zor
+yüksek,orta,3,2,orta,orta,zor
+yüksek,orta,3,2,orta,yüksek,zor
+yüksek,orta,3,2,büyük,düþük,zor
+yüksek,orta,3,2,büyük,orta,zor
+yüksek,orta,3,2,büyük,yüksek,zor
+yüksek,orta,3,4,küçük,düþük,zor
+yüksek,orta,3,4,küçük,orta,zor
+yüksek,orta,3,4,küçük,yüksek,normal
+yüksek,orta,3,4,orta,düþük,zor
+yüksek,orta,3,4,orta,orta,zor
+yüksek,orta,3,4,orta,yüksek,normal
+yüksek,orta,3,4,büyük,düþük,zor
+yüksek,orta,3,4,büyük,orta,normal
+yüksek,orta,3,4,büyük,yüksek,normal
+yüksek,orta,3,4 den fazla,küçük,düþük,zor
+yüksek,orta,3,4 den fazla,küçük,orta,zor
+yüksek,orta,3,4 den fazla,küçük,yüksek,normal
+yüksek,orta,3,4 den fazla,orta,düþük,zor
+yüksek,orta,3,4 den fazla,orta,orta,normal
+yüksek,orta,3,4 den fazla,orta,yüksek,normal
+yüksek,orta,3,4 den fazla,büyük,düþük,zor
+yüksek,orta,3,4 den fazla,büyük,orta,normal
+yüksek,orta,3,4 den fazla,büyük,yüksek,normal
+yüksek,orta,4,2,küçük,düþük,zor
+yüksek,orta,4,2,küçük,orta,zor
+yüksek,orta,4,2,küçük,yüksek,zor
+yüksek,orta,4,2,orta,düþük,zor
+yüksek,orta,4,2,orta,orta,zor
+yüksek,orta,4,2,orta,yüksek,zor
+yüksek,orta,4,2,büyük,düþük,zor
+yüksek,orta,4,2,büyük,orta,zor
+yüksek,orta,4,2,büyük,yüksek,zor
+yüksek,orta,4,4,küçük,düþük,zor
+yüksek,orta,4,4,küçük,orta,zor
+yüksek,orta,4,4,küçük,yüksek,normal
+yüksek,orta,4,4,orta,düþük,zor
+yüksek,orta,4,4,orta,orta,normal
+yüksek,orta,4,4,orta,yüksek,normal
+yüksek,orta,4,4,büyük,düþük,zor
+yüksek,orta,4,4,büyük,orta,normal
+yüksek,orta,4,4,büyük,yüksek,normal
+yüksek,orta,4,4 den fazla,küçük,düþük,zor
+yüksek,orta,4,4 den fazla,küçük,orta,zor
+yüksek,orta,4,4 den fazla,küçük,yüksek,normal
+yüksek,orta,4,4 den fazla,orta,düþük,zor
+yüksek,orta,4,4 den fazla,orta,orta,normal
+yüksek,orta,4,4 den fazla,orta,yüksek,normal
+yüksek,orta,4,4 den fazla,büyük,düþük,zor
+yüksek,orta,4,4 den fazla,büyük,orta,normal
+yüksek,orta,4,4 den fazla,büyük,yüksek,normal
+yüksek,orta,5 den fazla,2,küçük,düþük,zor
+yüksek,orta,5 den fazla,2,küçük,orta,zor
+yüksek,orta,5 den fazla,2,küçük,yüksek,zor
+yüksek,orta,5 den fazla,2,orta,düþük,zor
+yüksek,orta,5 den fazla,2,orta,orta,zor
+yüksek,orta,5 den fazla,2,orta,yüksek,zor
+yüksek,orta,5 den fazla,2,büyük,düþük,zor
+yüksek,orta,5 den fazla,2,büyük,orta,zor
+yüksek,orta,5 den fazla,2,büyük,yüksek,zor
+yüksek,orta,5 den fazla,4,küçük,düþük,zor
+yüksek,orta,5 den fazla,4,küçük,orta,zor
+yüksek,orta,5 den fazla,4,küçük,yüksek,normal
+yüksek,orta,5 den fazla,4,orta,düþük,zor
+yüksek,orta,5 den fazla,4,orta,orta,normal
+yüksek,orta,5 den fazla,4,orta,yüksek,normal
+yüksek,orta,5 den fazla,4,büyük,düþük,zor
+yüksek,orta,5 den fazla,4,büyük,orta,normal
+yüksek,orta,5 den fazla,4,büyük,yüksek,normal
+yüksek,orta,5 den fazla,4 den fazla,küçük,düþük,zor
+yüksek,orta,5 den fazla,4 den fazla,küçük,orta,zor
+yüksek,orta,5 den fazla,4 den fazla,küçük,yüksek,normal
+yüksek,orta,5 den fazla,4 den fazla,orta,düþük,zor
+yüksek,orta,5 den fazla,4 den fazla,orta,orta,normal
+yüksek,orta,5 den fazla,4 den fazla,orta,yüksek,normal
+yüksek,orta,5 den fazla,4 den fazla,büyük,düþük,zor
+yüksek,orta,5 den fazla,4 den fazla,büyük,orta,normal
+yüksek,orta,5 den fazla,4 den fazla,büyük,yüksek,normal
+yüksek,düþük,2,2,küçük,düþük,zor
+yüksek,düþük,2,2,küçük,orta,zor
+yüksek,düþük,2,2,küçük,yüksek,zor
+yüksek,düþük,2,2,orta,düþük,zor
+yüksek,düþük,2,2,orta,orta,zor
+yüksek,düþük,2,2,orta,yüksek,zor
+yüksek,düþük,2,2,büyük,düþük,zor
+yüksek,düþük,2,2,büyük,orta,zor
+yüksek,düþük,2,2,büyük,yüksek,zor
+yüksek,düþük,2,4,küçük,düþük,zor
+yüksek,düþük,2,4,küçük,orta,zor
+yüksek,düþük,2,4,küçük,yüksek,normal
+yüksek,düþük,2,4,orta,düþük,zor
+yüksek,düþük,2,4,orta,orta,zor
+yüksek,düþük,2,4,orta,yüksek,normal
+yüksek,düþük,2,4,büyük,düþük,zor
+yüksek,düþük,2,4,büyük,orta,normal
+yüksek,düþük,2,4,büyük,yüksek,normal
+yüksek,düþük,2,4 den fazla,küçük,düþük,zor
+yüksek,düþük,2,4 den fazla,küçük,orta,zor
+yüksek,düþük,2,4 den fazla,küçük,yüksek,zor
+yüksek,düþük,2,4 den fazla,orta,düþük,zor
+yüksek,düþük,2,4 den fazla,orta,orta,zor
+yüksek,düþük,2,4 den fazla,orta,yüksek,normal
+yüksek,düþük,2,4 den fazla,büyük,düþük,zor
+yüksek,düþük,2,4 den fazla,büyük,orta,normal
+yüksek,düþük,2,4 den fazla,büyük,yüksek,normal
+yüksek,düþük,3,2,küçük,düþük,zor
+yüksek,düþük,3,2,küçük,orta,zor
+yüksek,düþük,3,2,küçük,yüksek,zor
+yüksek,düþük,3,2,orta,düþük,zor
+yüksek,düþük,3,2,orta,orta,zor
+yüksek,düþük,3,2,orta,yüksek,zor
+yüksek,düþük,3,2,büyük,düþük,zor
+yüksek,düþük,3,2,büyük,orta,zor
+yüksek,düþük,3,2,büyük,yüksek,zor
+yüksek,düþük,3,4,küçük,düþük,zor
+yüksek,düþük,3,4,küçük,orta,zor
+yüksek,düþük,3,4,küçük,yüksek,normal
+yüksek,düþük,3,4,orta,düþük,zor
+yüksek,düþük,3,4,orta,orta,zor
+yüksek,düþük,3,4,orta,yüksek,normal
+yüksek,düþük,3,4,büyük,düþük,zor
+yüksek,düþük,3,4,büyük,orta,normal
+yüksek,düþük,3,4,büyük,yüksek,normal
+yüksek,düþük,3,4 den fazla,küçük,düþük,zor
+yüksek,düþük,3,4 den fazla,küçük,orta,zor
+yüksek,düþük,3,4 den fazla,küçük,yüksek,normal
+yüksek,düþük,3,4 den fazla,orta,düþük,zor
+yüksek,düþük,3,4 den fazla,orta,orta,normal
+yüksek,düþük,3,4 den fazla,orta,yüksek,normal
+yüksek,düþük,3,4 den fazla,büyük,düþük,zor
+yüksek,düþük,3,4 den fazla,büyük,orta,normal
+yüksek,düþük,3,4 den fazla,büyük,yüksek,normal
+yüksek,düþük,4,2,küçük,düþük,zor
+yüksek,düþük,4,2,küçük,orta,zor
+yüksek,düþük,4,2,küçük,yüksek,zor
+yüksek,düþük,4,2,orta,düþük,zor
+yüksek,düþük,4,2,orta,orta,zor
+yüksek,düþük,4,2,orta,yüksek,zor
+yüksek,düþük,4,2,büyük,düþük,zor
+yüksek,düþük,4,2,büyük,orta,zor
+yüksek,düþük,4,2,büyük,yüksek,zor
+yüksek,düþük,4,4,küçük,düþük,zor
+yüksek,düþük,4,4,küçük,orta,zor
+yüksek,düþük,4,4,küçük,yüksek,normal
+yüksek,düþük,4,4,orta,düþük,zor
+yüksek,düþük,4,4,orta,orta,normal
+yüksek,düþük,4,4,orta,yüksek,normal
+yüksek,düþük,4,4,büyük,düþük,zor
+yüksek,düþük,4,4,büyük,orta,normal
+yüksek,düþük,4,4,büyük,yüksek,normal
+yüksek,düþük,4,4 den fazla,küçük,düþük,zor
+yüksek,düþük,4,4 den fazla,küçük,orta,zor
+yüksek,düþük,4,4 den fazla,küçük,yüksek,normal
+yüksek,düþük,4,4 den fazla,orta,düþük,zor
+yüksek,düþük,4,4 den fazla,orta,orta,normal
+yüksek,düþük,4,4 den fazla,orta,yüksek,normal
+yüksek,düþük,4,4 den fazla,büyük,düþük,zor
+yüksek,düþük,4,4 den fazla,büyük,orta,normal
+yüksek,düþük,4,4 den fazla,büyük,yüksek,normal
+yüksek,düþük,5 den fazla,2,küçük,düþük,zor
+yüksek,düþük,5 den fazla,2,küçük,orta,zor
+yüksek,düþük,5 den fazla,2,küçük,yüksek,zor
+yüksek,düþük,5 den fazla,2,orta,düþük,zor
+yüksek,düþük,5 den fazla,2,orta,orta,zor
+yüksek,düþük,5 den fazla,2,orta,yüksek,zor
+yüksek,düþük,5 den fazla,2,büyük,düþük,zor
+yüksek,düþük,5 den fazla,2,büyük,orta,zor
+yüksek,düþük,5 den fazla,2,büyük,yüksek,zor
+yüksek,düþük,5 den fazla,4,küçük,düþük,zor
+yüksek,düþük,5 den fazla,4,küçük,orta,zor
+yüksek,düþük,5 den fazla,4,küçük,yüksek,normal
+yüksek,düþük,5 den fazla,4,orta,düþük,zor
+yüksek,düþük,5 den fazla,4,orta,orta,normal
+yüksek,düþük,5 den fazla,4,orta,yüksek,normal
+yüksek,düþük,5 den fazla,4,büyük,düþük,zor
+yüksek,düþük,5 den fazla,4,büyük,orta,normal
+yüksek,düþük,5 den fazla,4,büyük,yüksek,normal
+yüksek,düþük,5 den fazla,4 den fazla,küçük,düþük,zor
+yüksek,düþük,5 den fazla,4 den fazla,küçük,orta,zor
+yüksek,düþük,5 den fazla,4 den fazla,küçük,yüksek,normal
+yüksek,düþük,5 den fazla,4 den fazla,orta,düþük,zor
+yüksek,düþük,5 den fazla,4 den fazla,orta,orta,normal
+yüksek,düþük,5 den fazla,4 den fazla,orta,yüksek,normal
+yüksek,düþük,5 den fazla,4 den fazla,büyük,düþük,zor
+yüksek,düþük,5 den fazla,4 den fazla,büyük,orta,normal
+yüksek,düþük,5 den fazla,4 den fazla,büyük,yüksek,normal
+orta,çok yüksek,2,2,küçük,düþük,zor
+orta,çok yüksek,2,2,küçük,orta,zor
+orta,çok yüksek,2,2,küçük,yüksek,zor
+orta,çok yüksek,2,2,orta,düþük,zor
+orta,çok yüksek,2,2,orta,orta,zor
+orta,çok yüksek,2,2,orta,yüksek,zor
+orta,çok yüksek,2,2,büyük,düþük,zor
+orta,çok yüksek,2,2,büyük,orta,zor
+orta,çok yüksek,2,2,büyük,yüksek,zor
+orta,çok yüksek,2,4,küçük,düþük,zor
+orta,çok yüksek,2,4,küçük,orta,zor
+orta,çok yüksek,2,4,küçük,yüksek,normal
+orta,çok yüksek,2,4,orta,düþük,zor
+orta,çok yüksek,2,4,orta,orta,zor
+orta,çok yüksek,2,4,orta,yüksek,normal
+orta,çok yüksek,2,4,büyük,düþük,zor
+orta,çok yüksek,2,4,büyük,orta,normal
+orta,çok yüksek,2,4,büyük,yüksek,normal
+orta,çok yüksek,2,4 den fazla,küçük,düþük,zor
+orta,çok yüksek,2,4 den fazla,küçük,orta,zor
+orta,çok yüksek,2,4 den fazla,küçük,yüksek,zor
+orta,çok yüksek,2,4 den fazla,orta,düþük,zor
+orta,çok yüksek,2,4 den fazla,orta,orta,zor
+orta,çok yüksek,2,4 den fazla,orta,yüksek,normal
+orta,çok yüksek,2,4 den fazla,büyük,düþük,zor
+orta,çok yüksek,2,4 den fazla,büyük,orta,normal
+orta,çok yüksek,2,4 den fazla,büyük,yüksek,normal
+orta,çok yüksek,3,2,küçük,düþük,zor
+orta,çok yüksek,3,2,küçük,orta,zor
+orta,çok yüksek,3,2,küçük,yüksek,zor
+orta,çok yüksek,3,2,orta,düþük,zor
+orta,çok yüksek,3,2,orta,orta,zor
+orta,çok yüksek,3,2,orta,yüksek,zor
+orta,çok yüksek,3,2,büyük,düþük,zor
+orta,çok yüksek,3,2,büyük,orta,zor
+orta,çok yüksek,3,2,büyük,yüksek,zor
+orta,çok yüksek,3,4,küçük,düþük,zor
+orta,çok yüksek,3,4,küçük,orta,zor
+orta,çok yüksek,3,4,küçük,yüksek,normal
+orta,çok yüksek,3,4,orta,düþük,zor
+orta,çok yüksek,3,4,orta,orta,zor
+orta,çok yüksek,3,4,orta,yüksek,normal
+orta,çok yüksek,3,4,büyük,düþük,zor
+orta,çok yüksek,3,4,büyük,orta,normal
+orta,çok yüksek,3,4,büyük,yüksek,normal
+orta,çok yüksek,3,4 den fazla,küçük,düþük,zor
+orta,çok yüksek,3,4 den fazla,küçük,orta,zor
+orta,çok yüksek,3,4 den fazla,küçük,yüksek,normal
+orta,çok yüksek,3,4 den fazla,orta,düþük,zor
+orta,çok yüksek,3,4 den fazla,orta,orta,normal
+orta,çok yüksek,3,4 den fazla,orta,yüksek,normal
+orta,çok yüksek,3,4 den fazla,büyük,düþük,zor
+orta,çok yüksek,3,4 den fazla,büyük,orta,normal
+orta,çok yüksek,3,4 den fazla,büyük,yüksek,normal
+orta,çok yüksek,4,2,küçük,düþük,zor
+orta,çok yüksek,4,2,küçük,orta,zor
+orta,çok yüksek,4,2,küçük,yüksek,zor
+orta,çok yüksek,4,2,orta,düþük,zor
+orta,çok yüksek,4,2,orta,orta,zor
+orta,çok yüksek,4,2,orta,yüksek,zor
+orta,çok yüksek,4,2,büyük,düþük,zor
+orta,çok yüksek,4,2,büyük,orta,zor
+orta,çok yüksek,4,2,büyük,yüksek,zor
+orta,çok yüksek,4,4,küçük,düþük,zor
+orta,çok yüksek,4,4,küçük,orta,zor
+orta,çok yüksek,4,4,küçük,yüksek,normal
+orta,çok yüksek,4,4,orta,düþük,zor
+orta,çok yüksek,4,4,orta,orta,normal
+orta,çok yüksek,4,4,orta,yüksek,normal
+orta,çok yüksek,4,4,büyük,düþük,zor
+orta,çok yüksek,4,4,büyük,orta,normal
+orta,çok yüksek,4,4,büyük,yüksek,normal
+orta,çok yüksek,4,4 den fazla,küçük,düþük,zor
+orta,çok yüksek,4,4 den fazla,küçük,orta,zor
+orta,çok yüksek,4,4 den fazla,küçük,yüksek,normal
+orta,çok yüksek,4,4 den fazla,orta,düþük,zor
+orta,çok yüksek,4,4 den fazla,orta,orta,normal
+orta,çok yüksek,4,4 den fazla,orta,yüksek,normal
+orta,çok yüksek,4,4 den fazla,büyük,düþük,zor
+orta,çok yüksek,4,4 den fazla,büyük,orta,normal
+orta,çok yüksek,4,4 den fazla,büyük,yüksek,normal
+orta,çok yüksek,5 den fazla,2,küçük,düþük,zor
+orta,çok yüksek,5 den fazla,2,küçük,orta,zor
+orta,çok yüksek,5 den fazla,2,küçük,yüksek,zor
+orta,çok yüksek,5 den fazla,2,orta,düþük,zor
+orta,çok yüksek,5 den fazla,2,orta,orta,zor
+orta,çok yüksek,5 den fazla,2,orta,yüksek,zor
+orta,çok yüksek,5 den fazla,2,büyük,düþük,zor
+orta,çok yüksek,5 den fazla,2,büyük,orta,zor
+orta,çok yüksek,5 den fazla,2,büyük,yüksek,zor
+orta,çok yüksek,5 den fazla,4,küçük,düþük,zor
+orta,çok yüksek,5 den fazla,4,küçük,orta,zor
+orta,çok yüksek,5 den fazla,4,küçük,yüksek,normal
+orta,çok yüksek,5 den fazla,4,orta,düþük,zor
+orta,çok yüksek,5 den fazla,4,orta,orta,normal
+orta,çok yüksek,5 den fazla,4,orta,yüksek,normal
+orta,çok yüksek,5 den fazla,4,büyük,düþük,zor
+orta,çok yüksek,5 den fazla,4,büyük,orta,normal
+orta,çok yüksek,5 den fazla,4,büyük,yüksek,normal
+orta,çok yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+orta,çok yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+orta,çok yüksek,5 den fazla,4 den fazla,küçük,yüksek,normal
+orta,çok yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+orta,çok yüksek,5 den fazla,4 den fazla,orta,orta,normal
+orta,çok yüksek,5 den fazla,4 den fazla,orta,yüksek,normal
+orta,çok yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+orta,çok yüksek,5 den fazla,4 den fazla,büyük,orta,normal
+orta,çok yüksek,5 den fazla,4 den fazla,büyük,yüksek,normal
+orta,yüksek,2,2,küçük,düþük,zor
+orta,yüksek,2,2,küçük,orta,zor
+orta,yüksek,2,2,küçük,yüksek,zor
+orta,yüksek,2,2,orta,düþük,zor
+orta,yüksek,2,2,orta,orta,zor
+orta,yüksek,2,2,orta,yüksek,zor
+orta,yüksek,2,2,büyük,düþük,zor
+orta,yüksek,2,2,büyük,orta,zor
+orta,yüksek,2,2,büyük,yüksek,zor
+orta,yüksek,2,4,küçük,düþük,zor
+orta,yüksek,2,4,küçük,orta,zor
+orta,yüksek,2,4,küçük,yüksek,normal
+orta,yüksek,2,4,orta,düþük,zor
+orta,yüksek,2,4,orta,orta,zor
+orta,yüksek,2,4,orta,yüksek,normal
+orta,yüksek,2,4,büyük,düþük,zor
+orta,yüksek,2,4,büyük,orta,normal
+orta,yüksek,2,4,büyük,yüksek,normal
+orta,yüksek,2,4 den fazla,küçük,düþük,zor
+orta,yüksek,2,4 den fazla,küçük,orta,zor
+orta,yüksek,2,4 den fazla,küçük,yüksek,zor
+orta,yüksek,2,4 den fazla,orta,düþük,zor
+orta,yüksek,2,4 den fazla,orta,orta,zor
+orta,yüksek,2,4 den fazla,orta,yüksek,normal
+orta,yüksek,2,4 den fazla,büyük,düþük,zor
+orta,yüksek,2,4 den fazla,büyük,orta,normal
+orta,yüksek,2,4 den fazla,büyük,yüksek,normal
+orta,yüksek,3,2,küçük,düþük,zor
+orta,yüksek,3,2,küçük,orta,zor
+orta,yüksek,3,2,küçük,yüksek,zor
+orta,yüksek,3,2,orta,düþük,zor
+orta,yüksek,3,2,orta,orta,zor
+orta,yüksek,3,2,orta,yüksek,zor
+orta,yüksek,3,2,büyük,düþük,zor
+orta,yüksek,3,2,büyük,orta,zor
+orta,yüksek,3,2,büyük,yüksek,zor
+orta,yüksek,3,4,küçük,düþük,zor
+orta,yüksek,3,4,küçük,orta,zor
+orta,yüksek,3,4,küçük,yüksek,normal
+orta,yüksek,3,4,orta,düþük,zor
+orta,yüksek,3,4,orta,orta,zor
+orta,yüksek,3,4,orta,yüksek,normal
+orta,yüksek,3,4,büyük,düþük,zor
+orta,yüksek,3,4,büyük,orta,normal
+orta,yüksek,3,4,büyük,yüksek,normal
+orta,yüksek,3,4 den fazla,küçük,düþük,zor
+orta,yüksek,3,4 den fazla,küçük,orta,zor
+orta,yüksek,3,4 den fazla,küçük,yüksek,normal
+orta,yüksek,3,4 den fazla,orta,düþük,zor
+orta,yüksek,3,4 den fazla,orta,orta,normal
+orta,yüksek,3,4 den fazla,orta,yüksek,normal
+orta,yüksek,3,4 den fazla,büyük,düþük,zor
+orta,yüksek,3,4 den fazla,büyük,orta,normal
+orta,yüksek,3,4 den fazla,büyük,yüksek,normal
+orta,yüksek,4,2,küçük,düþük,zor
+orta,yüksek,4,2,küçük,orta,zor
+orta,yüksek,4,2,küçük,yüksek,zor
+orta,yüksek,4,2,orta,düþük,zor
+orta,yüksek,4,2,orta,orta,zor
+orta,yüksek,4,2,orta,yüksek,zor
+orta,yüksek,4,2,büyük,düþük,zor
+orta,yüksek,4,2,büyük,orta,zor
+orta,yüksek,4,2,büyük,yüksek,zor
+orta,yüksek,4,4,küçük,düþük,zor
+orta,yüksek,4,4,küçük,orta,zor
+orta,yüksek,4,4,küçük,yüksek,normal
+orta,yüksek,4,4,orta,düþük,zor
+orta,yüksek,4,4,orta,orta,normal
+orta,yüksek,4,4,orta,yüksek,normal
+orta,yüksek,4,4,büyük,düþük,zor
+orta,yüksek,4,4,büyük,orta,normal
+orta,yüksek,4,4,büyük,yüksek,normal
+orta,yüksek,4,4 den fazla,küçük,düþük,zor
+orta,yüksek,4,4 den fazla,küçük,orta,zor
+orta,yüksek,4,4 den fazla,küçük,yüksek,normal
+orta,yüksek,4,4 den fazla,orta,düþük,zor
+orta,yüksek,4,4 den fazla,orta,orta,normal
+orta,yüksek,4,4 den fazla,orta,yüksek,normal
+orta,yüksek,4,4 den fazla,büyük,düþük,zor
+orta,yüksek,4,4 den fazla,büyük,orta,normal
+orta,yüksek,4,4 den fazla,büyük,yüksek,normal
+orta,yüksek,5 den fazla,2,küçük,düþük,zor
+orta,yüksek,5 den fazla,2,küçük,orta,zor
+orta,yüksek,5 den fazla,2,küçük,yüksek,zor
+orta,yüksek,5 den fazla,2,orta,düþük,zor
+orta,yüksek,5 den fazla,2,orta,orta,zor
+orta,yüksek,5 den fazla,2,orta,yüksek,zor
+orta,yüksek,5 den fazla,2,büyük,düþük,zor
+orta,yüksek,5 den fazla,2,büyük,orta,zor
+orta,yüksek,5 den fazla,2,büyük,yüksek,zor
+orta,yüksek,5 den fazla,4,küçük,düþük,zor
+orta,yüksek,5 den fazla,4,küçük,orta,zor
+orta,yüksek,5 den fazla,4,küçük,yüksek,normal
+orta,yüksek,5 den fazla,4,orta,düþük,zor
+orta,yüksek,5 den fazla,4,orta,orta,normal
+orta,yüksek,5 den fazla,4,orta,yüksek,normal
+orta,yüksek,5 den fazla,4,büyük,düþük,zor
+orta,yüksek,5 den fazla,4,büyük,orta,normal
+orta,yüksek,5 den fazla,4,büyük,yüksek,normal
+orta,yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+orta,yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+orta,yüksek,5 den fazla,4 den fazla,küçük,yüksek,normal
+orta,yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+orta,yüksek,5 den fazla,4 den fazla,orta,orta,normal
+orta,yüksek,5 den fazla,4 den fazla,orta,yüksek,normal
+orta,yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+orta,yüksek,5 den fazla,4 den fazla,büyük,orta,normal
+orta,yüksek,5 den fazla,4 den fazla,büyük,yüksek,normal
+orta,orta,2,2,küçük,düþük,zor
+orta,orta,2,2,küçük,orta,zor
+orta,orta,2,2,küçük,yüksek,zor
+orta,orta,2,2,orta,düþük,zor
+orta,orta,2,2,orta,orta,zor
+orta,orta,2,2,orta,yüksek,zor
+orta,orta,2,2,büyük,düþük,zor
+orta,orta,2,2,büyük,orta,zor
+orta,orta,2,2,büyük,yüksek,zor
+orta,orta,2,4,küçük,düþük,zor
+orta,orta,2,4,küçük,orta,normal
+orta,orta,2,4,küçük,yüksek,normal
+orta,orta,2,4,orta,düþük,zor
+orta,orta,2,4,orta,orta,normal
+orta,orta,2,4,orta,yüksek,normal
+orta,orta,2,4,büyük,düþük,zor
+orta,orta,2,4,büyük,orta,normal
+orta,orta,2,4,büyük,yüksek,çok kolay
+orta,orta,2,4 den fazla,küçük,düþük,zor
+orta,orta,2,4 den fazla,küçük,orta,zor
+orta,orta,2,4 den fazla,küçük,yüksek,zor
+orta,orta,2,4 den fazla,orta,düþük,zor
+orta,orta,2,4 den fazla,orta,orta,normal
+orta,orta,2,4 den fazla,orta,yüksek,normal
+orta,orta,2,4 den fazla,büyük,düþük,zor
+orta,orta,2,4 den fazla,büyük,orta,normal
+orta,orta,2,4 den fazla,büyük,yüksek,çok kolay
+orta,orta,3,2,küçük,düþük,zor
+orta,orta,3,2,küçük,orta,zor
+orta,orta,3,2,küçük,yüksek,zor
+orta,orta,3,2,orta,düþük,zor
+orta,orta,3,2,orta,orta,zor
+orta,orta,3,2,orta,yüksek,zor
+orta,orta,3,2,büyük,düþük,zor
+orta,orta,3,2,büyük,orta,zor
+orta,orta,3,2,büyük,yüksek,zor
+orta,orta,3,4,küçük,düþük,zor
+orta,orta,3,4,küçük,orta,normal
+orta,orta,3,4,küçük,yüksek,normal
+orta,orta,3,4,orta,düþük,zor
+orta,orta,3,4,orta,orta,normal
+orta,orta,3,4,orta,yüksek,normal
+orta,orta,3,4,büyük,düþük,zor
+orta,orta,3,4,büyük,orta,normal
+orta,orta,3,4,büyük,yüksek,çok kolay
+orta,orta,3,4 den fazla,küçük,düþük,zor
+orta,orta,3,4 den fazla,küçük,orta,normal
+orta,orta,3,4 den fazla,küçük,yüksek,normal
+orta,orta,3,4 den fazla,orta,düþük,zor
+orta,orta,3,4 den fazla,orta,orta,normal
+orta,orta,3,4 den fazla,orta,yüksek,çok kolay
+orta,orta,3,4 den fazla,büyük,düþük,zor
+orta,orta,3,4 den fazla,büyük,orta,normal
+orta,orta,3,4 den fazla,büyük,yüksek,çok kolay
+orta,orta,4,2,küçük,düþük,zor
+orta,orta,4,2,küçük,orta,zor
+orta,orta,4,2,küçük,yüksek,zor
+orta,orta,4,2,orta,düþük,zor
+orta,orta,4,2,orta,orta,zor
+orta,orta,4,2,orta,yüksek,zor
+orta,orta,4,2,büyük,düþük,zor
+orta,orta,4,2,büyük,orta,zor
+orta,orta,4,2,büyük,yüksek,zor
+orta,orta,4,4,küçük,düþük,zor
+orta,orta,4,4,küçük,orta,normal
+orta,orta,4,4,küçük,yüksek,normal
+orta,orta,4,4,orta,düþük,zor
+orta,orta,4,4,orta,orta,normal
+orta,orta,4,4,orta,yüksek,çok kolay
+orta,orta,4,4,büyük,düþük,zor
+orta,orta,4,4,büyük,orta,normal
+orta,orta,4,4,büyük,yüksek,çok kolay
+orta,orta,4,4 den fazla,küçük,düþük,zor
+orta,orta,4,4 den fazla,küçük,orta,normal
+orta,orta,4,4 den fazla,küçük,yüksek,normal
+orta,orta,4,4 den fazla,orta,düþük,zor
+orta,orta,4,4 den fazla,orta,orta,normal
+orta,orta,4,4 den fazla,orta,yüksek,çok kolay
+orta,orta,4,4 den fazla,büyük,düþük,zor
+orta,orta,4,4 den fazla,büyük,orta,normal
+orta,orta,4,4 den fazla,büyük,yüksek,çok kolay
+orta,orta,5 den fazla,2,küçük,düþük,zor
+orta,orta,5 den fazla,2,küçük,orta,zor
+orta,orta,5 den fazla,2,küçük,yüksek,zor
+orta,orta,5 den fazla,2,orta,düþük,zor
+orta,orta,5 den fazla,2,orta,orta,zor
+orta,orta,5 den fazla,2,orta,yüksek,zor
+orta,orta,5 den fazla,2,büyük,düþük,zor
+orta,orta,5 den fazla,2,büyük,orta,zor
+orta,orta,5 den fazla,2,büyük,yüksek,zor
+orta,orta,5 den fazla,4,küçük,düþük,zor
+orta,orta,5 den fazla,4,küçük,orta,normal
+orta,orta,5 den fazla,4,küçük,yüksek,normal
+orta,orta,5 den fazla,4,orta,düþük,zor
+orta,orta,5 den fazla,4,orta,orta,normal
+orta,orta,5 den fazla,4,orta,yüksek,çok kolay
+orta,orta,5 den fazla,4,büyük,düþük,zor
+orta,orta,5 den fazla,4,büyük,orta,normal
+orta,orta,5 den fazla,4,büyük,yüksek,çok kolay
+orta,orta,5 den fazla,4 den fazla,küçük,düþük,zor
+orta,orta,5 den fazla,4 den fazla,küçük,orta,normal
+orta,orta,5 den fazla,4 den fazla,küçük,yüksek,normal
+orta,orta,5 den fazla,4 den fazla,orta,düþük,zor
+orta,orta,5 den fazla,4 den fazla,orta,orta,normal
+orta,orta,5 den fazla,4 den fazla,orta,yüksek,çok kolay
+orta,orta,5 den fazla,4 den fazla,büyük,düþük,zor
+orta,orta,5 den fazla,4 den fazla,büyük,orta,normal
+orta,orta,5 den fazla,4 den fazla,büyük,yüksek,çok kolay
+orta,düþük,2,2,küçük,düþük,zor
+orta,düþük,2,2,küçük,orta,zor
+orta,düþük,2,2,küçük,yüksek,zor
+orta,düþük,2,2,orta,düþük,zor
+orta,düþük,2,2,orta,orta,zor
+orta,düþük,2,2,orta,yüksek,zor
+orta,düþük,2,2,büyük,düþük,zor
+orta,düþük,2,2,büyük,orta,zor
+orta,düþük,2,2,büyük,yüksek,zor
+orta,düþük,2,4,küçük,düþük,zor
+orta,düþük,2,4,küçük,orta,normal
+orta,düþük,2,4,küçük,yüksek,kolay
+orta,düþük,2,4,orta,düþük,zor
+orta,düþük,2,4,orta,orta,normal
+orta,düþük,2,4,orta,yüksek,kolay
+orta,düþük,2,4,büyük,düþük,zor
+orta,düþük,2,4,büyük,orta,kolay
+orta,düþük,2,4,büyük,yüksek,çok kolay
+orta,düþük,2,4 den fazla,küçük,düþük,zor
+orta,düþük,2,4 den fazla,küçük,orta,zor
+orta,düþük,2,4 den fazla,küçük,yüksek,zor
+orta,düþük,2,4 den fazla,orta,düþük,zor
+orta,düþük,2,4 den fazla,orta,orta,normal
+orta,düþük,2,4 den fazla,orta,yüksek,kolay
+orta,düþük,2,4 den fazla,büyük,düþük,zor
+orta,düþük,2,4 den fazla,büyük,orta,kolay
+orta,düþük,2,4 den fazla,büyük,yüksek,çok kolay
+orta,düþük,3,2,küçük,düþük,zor
+orta,düþük,3,2,küçük,orta,zor
+orta,düþük,3,2,küçük,yüksek,zor
+orta,düþük,3,2,orta,düþük,zor
+orta,düþük,3,2,orta,orta,zor
+orta,düþük,3,2,orta,yüksek,zor
+orta,düþük,3,2,büyük,düþük,zor
+orta,düþük,3,2,büyük,orta,zor
+orta,düþük,3,2,büyük,yüksek,zor
+orta,düþük,3,4,küçük,düþük,zor
+orta,düþük,3,4,küçük,orta,normal
+orta,düþük,3,4,küçük,yüksek,kolay
+orta,düþük,3,4,orta,düþük,zor
+orta,düþük,3,4,orta,orta,normal
+orta,düþük,3,4,orta,yüksek,kolay
+orta,düþük,3,4,büyük,düþük,zor
+orta,düþük,3,4,büyük,orta,kolay
+orta,düþük,3,4,büyük,yüksek,çok kolay
+orta,düþük,3,4 den fazla,küçük,düþük,zor
+orta,düþük,3,4 den fazla,küçük,orta,normal
+orta,düþük,3,4 den fazla,küçük,yüksek,kolay
+orta,düþük,3,4 den fazla,orta,düþük,zor
+orta,düþük,3,4 den fazla,orta,orta,kolay
+orta,düþük,3,4 den fazla,orta,yüksek,çok kolay
+orta,düþük,3,4 den fazla,büyük,düþük,zor
+orta,düþük,3,4 den fazla,büyük,orta,kolay
+orta,düþük,3,4 den fazla,büyük,yüksek,çok kolay
+orta,düþük,4,2,küçük,düþük,zor
+orta,düþük,4,2,küçük,orta,zor
+orta,düþük,4,2,küçük,yüksek,zor
+orta,düþük,4,2,orta,düþük,zor
+orta,düþük,4,2,orta,orta,zor
+orta,düþük,4,2,orta,yüksek,zor
+orta,düþük,4,2,büyük,düþük,zor
+orta,düþük,4,2,büyük,orta,zor
+orta,düþük,4,2,büyük,yüksek,zor
+orta,düþük,4,4,küçük,düþük,zor
+orta,düþük,4,4,küçük,orta,normal
+orta,düþük,4,4,küçük,yüksek,kolay
+orta,düþük,4,4,orta,düþük,zor
+orta,düþük,4,4,orta,orta,kolay
+orta,düþük,4,4,orta,yüksek,çok kolay
+orta,düþük,4,4,büyük,düþük,zor
+orta,düþük,4,4,büyük,orta,kolay
+orta,düþük,4,4,büyük,yüksek,çok kolay
+orta,düþük,4,4 den fazla,küçük,düþük,zor
+orta,düþük,4,4 den fazla,küçük,orta,normal
+orta,düþük,4,4 den fazla,küçük,yüksek,kolay
+orta,düþük,4,4 den fazla,orta,düþük,zor
+orta,düþük,4,4 den fazla,orta,orta,kolay
+orta,düþük,4,4 den fazla,orta,yüksek,çok kolay
+orta,düþük,4,4 den fazla,büyük,düþük,zor
+orta,düþük,4,4 den fazla,büyük,orta,kolay
+orta,düþük,4,4 den fazla,büyük,yüksek,çok kolay
+orta,düþük,5 den fazla,2,küçük,düþük,zor
+orta,düþük,5 den fazla,2,küçük,orta,zor
+orta,düþük,5 den fazla,2,küçük,yüksek,zor
+orta,düþük,5 den fazla,2,orta,düþük,zor
+orta,düþük,5 den fazla,2,orta,orta,zor
+orta,düþük,5 den fazla,2,orta,yüksek,zor
+orta,düþük,5 den fazla,2,büyük,düþük,zor
+orta,düþük,5 den fazla,2,büyük,orta,zor
+orta,düþük,5 den fazla,2,büyük,yüksek,zor
+orta,düþük,5 den fazla,4,küçük,düþük,zor
+orta,düþük,5 den fazla,4,küçük,orta,normal
+orta,düþük,5 den fazla,4,küçük,yüksek,kolay
+orta,düþük,5 den fazla,4,orta,düþük,zor
+orta,düþük,5 den fazla,4,orta,orta,kolay
+orta,düþük,5 den fazla,4,orta,yüksek,çok kolay
+orta,düþük,5 den fazla,4,büyük,düþük,zor
+orta,düþük,5 den fazla,4,büyük,orta,kolay
+orta,düþük,5 den fazla,4,büyük,yüksek,çok kolay
+orta,düþük,5 den fazla,4 den fazla,küçük,düþük,zor
+orta,düþük,5 den fazla,4 den fazla,küçük,orta,normal
+orta,düþük,5 den fazla,4 den fazla,küçük,yüksek,kolay
+orta,düþük,5 den fazla,4 den fazla,orta,düþük,zor
+orta,düþük,5 den fazla,4 den fazla,orta,orta,kolay
+orta,düþük,5 den fazla,4 den fazla,orta,yüksek,çok kolay
+orta,düþük,5 den fazla,4 den fazla,büyük,düþük,zor
+orta,düþük,5 den fazla,4 den fazla,büyük,orta,kolay
+orta,düþük,5 den fazla,4 den fazla,büyük,yüksek,çok kolay
+düþük,çok yüksek,2,2,küçük,düþük,zor
+düþük,çok yüksek,2,2,küçük,orta,zor
+düþük,çok yüksek,2,2,küçük,yüksek,zor
+düþük,çok yüksek,2,2,orta,düþük,zor
+düþük,çok yüksek,2,2,orta,orta,zor
+düþük,çok yüksek,2,2,orta,yüksek,zor
+düþük,çok yüksek,2,2,büyük,düþük,zor
+düþük,çok yüksek,2,2,büyük,orta,zor
+düþük,çok yüksek,2,2,büyük,yüksek,zor
+düþük,çok yüksek,2,4,küçük,düþük,zor
+düþük,çok yüksek,2,4,küçük,orta,zor
+düþük,çok yüksek,2,4,küçük,yüksek,normal
+düþük,çok yüksek,2,4,orta,düþük,zor
+düþük,çok yüksek,2,4,orta,orta,zor
+düþük,çok yüksek,2,4,orta,yüksek,normal
+düþük,çok yüksek,2,4,büyük,düþük,zor
+düþük,çok yüksek,2,4,büyük,orta,normal
+düþük,çok yüksek,2,4,büyük,yüksek,normal
+düþük,çok yüksek,2,4 den fazla,küçük,düþük,zor
+düþük,çok yüksek,2,4 den fazla,küçük,orta,zor
+düþük,çok yüksek,2,4 den fazla,küçük,yüksek,zor
+düþük,çok yüksek,2,4 den fazla,orta,düþük,zor
+düþük,çok yüksek,2,4 den fazla,orta,orta,zor
+düþük,çok yüksek,2,4 den fazla,orta,yüksek,normal
+düþük,çok yüksek,2,4 den fazla,büyük,düþük,zor
+düþük,çok yüksek,2,4 den fazla,büyük,orta,normal
+düþük,çok yüksek,2,4 den fazla,büyük,yüksek,normal
+düþük,çok yüksek,3,2,küçük,düþük,zor
+düþük,çok yüksek,3,2,küçük,orta,zor
+düþük,çok yüksek,3,2,küçük,yüksek,zor
+düþük,çok yüksek,3,2,orta,düþük,zor
+düþük,çok yüksek,3,2,orta,orta,zor
+düþük,çok yüksek,3,2,orta,yüksek,zor
+düþük,çok yüksek,3,2,büyük,düþük,zor
+düþük,çok yüksek,3,2,büyük,orta,zor
+düþük,çok yüksek,3,2,büyük,yüksek,zor
+düþük,çok yüksek,3,4,küçük,düþük,zor
+düþük,çok yüksek,3,4,küçük,orta,zor
+düþük,çok yüksek,3,4,küçük,yüksek,normal
+düþük,çok yüksek,3,4,orta,düþük,zor
+düþük,çok yüksek,3,4,orta,orta,zor
+düþük,çok yüksek,3,4,orta,yüksek,normal
+düþük,çok yüksek,3,4,büyük,düþük,zor
+düþük,çok yüksek,3,4,büyük,orta,normal
+düþük,çok yüksek,3,4,büyük,yüksek,normal
+düþük,çok yüksek,3,4 den fazla,küçük,düþük,zor
+düþük,çok yüksek,3,4 den fazla,küçük,orta,zor
+düþük,çok yüksek,3,4 den fazla,küçük,yüksek,normal
+düþük,çok yüksek,3,4 den fazla,orta,düþük,zor
+düþük,çok yüksek,3,4 den fazla,orta,orta,normal
+düþük,çok yüksek,3,4 den fazla,orta,yüksek,normal
+düþük,çok yüksek,3,4 den fazla,büyük,düþük,zor
+düþük,çok yüksek,3,4 den fazla,büyük,orta,normal
+düþük,çok yüksek,3,4 den fazla,büyük,yüksek,normal
+düþük,çok yüksek,4,2,küçük,düþük,zor
+düþük,çok yüksek,4,2,küçük,orta,zor
+düþük,çok yüksek,4,2,küçük,yüksek,zor
+düþük,çok yüksek,4,2,orta,düþük,zor
+düþük,çok yüksek,4,2,orta,orta,zor
+düþük,çok yüksek,4,2,orta,yüksek,zor
+düþük,çok yüksek,4,2,büyük,düþük,zor
+düþük,çok yüksek,4,2,büyük,orta,zor
+düþük,çok yüksek,4,2,büyük,yüksek,zor
+düþük,çok yüksek,4,4,küçük,düþük,zor
+düþük,çok yüksek,4,4,küçük,orta,zor
+düþük,çok yüksek,4,4,küçük,yüksek,normal
+düþük,çok yüksek,4,4,orta,düþük,zor
+düþük,çok yüksek,4,4,orta,orta,normal
+düþük,çok yüksek,4,4,orta,yüksek,normal
+düþük,çok yüksek,4,4,büyük,düþük,zor
+düþük,çok yüksek,4,4,büyük,orta,normal
+düþük,çok yüksek,4,4,büyük,yüksek,normal
+düþük,çok yüksek,4,4 den fazla,küçük,düþük,zor
+düþük,çok yüksek,4,4 den fazla,küçük,orta,zor
+düþük,çok yüksek,4,4 den fazla,küçük,yüksek,normal
+düþük,çok yüksek,4,4 den fazla,orta,düþük,zor
+düþük,çok yüksek,4,4 den fazla,orta,orta,normal
+düþük,çok yüksek,4,4 den fazla,orta,yüksek,normal
+düþük,çok yüksek,4,4 den fazla,büyük,düþük,zor
+düþük,çok yüksek,4,4 den fazla,büyük,orta,normal
+düþük,çok yüksek,4,4 den fazla,büyük,yüksek,normal
+düþük,çok yüksek,5 den fazla,2,küçük,düþük,zor
+düþük,çok yüksek,5 den fazla,2,küçük,orta,zor
+düþük,çok yüksek,5 den fazla,2,küçük,yüksek,zor
+düþük,çok yüksek,5 den fazla,2,orta,düþük,zor
+düþük,çok yüksek,5 den fazla,2,orta,orta,zor
+düþük,çok yüksek,5 den fazla,2,orta,yüksek,zor
+düþük,çok yüksek,5 den fazla,2,büyük,düþük,zor
+düþük,çok yüksek,5 den fazla,2,büyük,orta,zor
+düþük,çok yüksek,5 den fazla,2,büyük,yüksek,zor
+düþük,çok yüksek,5 den fazla,4,küçük,düþük,zor
+düþük,çok yüksek,5 den fazla,4,küçük,orta,zor
+düþük,çok yüksek,5 den fazla,4,küçük,yüksek,normal
+düþük,çok yüksek,5 den fazla,4,orta,düþük,zor
+düþük,çok yüksek,5 den fazla,4,orta,orta,normal
+düþük,çok yüksek,5 den fazla,4,orta,yüksek,normal
+düþük,çok yüksek,5 den fazla,4,büyük,düþük,zor
+düþük,çok yüksek,5 den fazla,4,büyük,orta,normal
+düþük,çok yüksek,5 den fazla,4,büyük,yüksek,normal
+düþük,çok yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+düþük,çok yüksek,5 den fazla,4 den fazla,küçük,orta,zor
+düþük,çok yüksek,5 den fazla,4 den fazla,küçük,yüksek,normal
+düþük,çok yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+düþük,çok yüksek,5 den fazla,4 den fazla,orta,orta,normal
+düþük,çok yüksek,5 den fazla,4 den fazla,orta,yüksek,normal
+düþük,çok yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+düþük,çok yüksek,5 den fazla,4 den fazla,büyük,orta,normal
+düþük,çok yüksek,5 den fazla,4 den fazla,büyük,yüksek,normal
+düþük,yüksek,2,2,küçük,düþük,zor
+düþük,yüksek,2,2,küçük,orta,zor
+düþük,yüksek,2,2,küçük,yüksek,zor
+düþük,yüksek,2,2,orta,düþük,zor
+düþük,yüksek,2,2,orta,orta,zor
+düþük,yüksek,2,2,orta,yüksek,zor
+düþük,yüksek,2,2,büyük,düþük,zor
+düþük,yüksek,2,2,büyük,orta,zor
+düþük,yüksek,2,2,büyük,yüksek,zor
+düþük,yüksek,2,4,küçük,düþük,zor
+düþük,yüksek,2,4,küçük,orta,normal
+düþük,yüksek,2,4,küçük,yüksek,normal
+düþük,yüksek,2,4,orta,düþük,zor
+düþük,yüksek,2,4,orta,orta,normal
+düþük,yüksek,2,4,orta,yüksek,normal
+düþük,yüksek,2,4,büyük,düþük,zor
+düþük,yüksek,2,4,büyük,orta,normal
+düþük,yüksek,2,4,büyük,yüksek,çok kolay
+düþük,yüksek,2,4 den fazla,küçük,düþük,zor
+düþük,yüksek,2,4 den fazla,küçük,orta,zor
+düþük,yüksek,2,4 den fazla,küçük,yüksek,zor
+düþük,yüksek,2,4 den fazla,orta,düþük,zor
+düþük,yüksek,2,4 den fazla,orta,orta,normal
+düþük,yüksek,2,4 den fazla,orta,yüksek,normal
+düþük,yüksek,2,4 den fazla,büyük,düþük,zor
+düþük,yüksek,2,4 den fazla,büyük,orta,normal
+düþük,yüksek,2,4 den fazla,büyük,yüksek,çok kolay
+düþük,yüksek,3,2,küçük,düþük,zor
+düþük,yüksek,3,2,küçük,orta,zor
+düþük,yüksek,3,2,küçük,yüksek,zor
+düþük,yüksek,3,2,orta,düþük,zor
+düþük,yüksek,3,2,orta,orta,zor
+düþük,yüksek,3,2,orta,yüksek,zor
+düþük,yüksek,3,2,büyük,düþük,zor
+düþük,yüksek,3,2,büyük,orta,zor
+düþük,yüksek,3,2,büyük,yüksek,zor
+düþük,yüksek,3,4,küçük,düþük,zor
+düþük,yüksek,3,4,küçük,orta,normal
+düþük,yüksek,3,4,küçük,yüksek,normal
+düþük,yüksek,3,4,orta,düþük,zor
+düþük,yüksek,3,4,orta,orta,normal
+düþük,yüksek,3,4,orta,yüksek,normal
+düþük,yüksek,3,4,büyük,düþük,zor
+düþük,yüksek,3,4,büyük,orta,normal
+düþük,yüksek,3,4,büyük,yüksek,çok kolay
+düþük,yüksek,3,4 den fazla,küçük,düþük,zor
+düþük,yüksek,3,4 den fazla,küçük,orta,normal
+düþük,yüksek,3,4 den fazla,küçük,yüksek,normal
+düþük,yüksek,3,4 den fazla,orta,düþük,zor
+düþük,yüksek,3,4 den fazla,orta,orta,normal
+düþük,yüksek,3,4 den fazla,orta,yüksek,çok kolay
+düþük,yüksek,3,4 den fazla,büyük,düþük,zor
+düþük,yüksek,3,4 den fazla,büyük,orta,normal
+düþük,yüksek,3,4 den fazla,büyük,yüksek,çok kolay
+düþük,yüksek,4,2,küçük,düþük,zor
+düþük,yüksek,4,2,küçük,orta,zor
+düþük,yüksek,4,2,küçük,yüksek,zor
+düþük,yüksek,4,2,orta,düþük,zor
+düþük,yüksek,4,2,orta,orta,zor
+düþük,yüksek,4,2,orta,yüksek,zor
+düþük,yüksek,4,2,büyük,düþük,zor
+düþük,yüksek,4,2,büyük,orta,zor
+düþük,yüksek,4,2,büyük,yüksek,zor
+düþük,yüksek,4,4,küçük,düþük,zor
+düþük,yüksek,4,4,küçük,orta,normal
+düþük,yüksek,4,4,küçük,yüksek,normal
+düþük,yüksek,4,4,orta,düþük,zor
+düþük,yüksek,4,4,orta,orta,normal
+düþük,yüksek,4,4,orta,yüksek,çok kolay
+düþük,yüksek,4,4,büyük,düþük,zor
+düþük,yüksek,4,4,büyük,orta,normal
+düþük,yüksek,4,4,büyük,yüksek,çok kolay
+düþük,yüksek,4,4 den fazla,küçük,düþük,zor
+düþük,yüksek,4,4 den fazla,küçük,orta,normal
+düþük,yüksek,4,4 den fazla,küçük,yüksek,normal
+düþük,yüksek,4,4 den fazla,orta,düþük,zor
+düþük,yüksek,4,4 den fazla,orta,orta,normal
+düþük,yüksek,4,4 den fazla,orta,yüksek,çok kolay
+düþük,yüksek,4,4 den fazla,büyük,düþük,zor
+düþük,yüksek,4,4 den fazla,büyük,orta,normal
+düþük,yüksek,4,4 den fazla,büyük,yüksek,çok kolay
+düþük,yüksek,5 den fazla,2,küçük,düþük,zor
+düþük,yüksek,5 den fazla,2,küçük,orta,zor
+düþük,yüksek,5 den fazla,2,küçük,yüksek,zor
+düþük,yüksek,5 den fazla,2,orta,düþük,zor
+düþük,yüksek,5 den fazla,2,orta,orta,zor
+düþük,yüksek,5 den fazla,2,orta,yüksek,zor
+düþük,yüksek,5 den fazla,2,büyük,düþük,zor
+düþük,yüksek,5 den fazla,2,büyük,orta,zor
+düþük,yüksek,5 den fazla,2,büyük,yüksek,zor
+düþük,yüksek,5 den fazla,4,küçük,düþük,zor
+düþük,yüksek,5 den fazla,4,küçük,orta,normal
+düþük,yüksek,5 den fazla,4,küçük,yüksek,normal
+düþük,yüksek,5 den fazla,4,orta,düþük,zor
+düþük,yüksek,5 den fazla,4,orta,orta,normal
+düþük,yüksek,5 den fazla,4,orta,yüksek,çok kolay
+düþük,yüksek,5 den fazla,4,büyük,düþük,zor
+düþük,yüksek,5 den fazla,4,büyük,orta,normal
+düþük,yüksek,5 den fazla,4,büyük,yüksek,çok kolay
+düþük,yüksek,5 den fazla,4 den fazla,küçük,düþük,zor
+düþük,yüksek,5 den fazla,4 den fazla,küçük,orta,normal
+düþük,yüksek,5 den fazla,4 den fazla,küçük,yüksek,normal
+düþük,yüksek,5 den fazla,4 den fazla,orta,düþük,zor
+düþük,yüksek,5 den fazla,4 den fazla,orta,orta,normal
+düþük,yüksek,5 den fazla,4 den fazla,orta,yüksek,çok kolay
+düþük,yüksek,5 den fazla,4 den fazla,büyük,düþük,zor
+düþük,yüksek,5 den fazla,4 den fazla,büyük,orta,normal
+düþük,yüksek,5 den fazla,4 den fazla,büyük,yüksek,çok kolay
+düþük,orta,2,2,küçük,düþük,zor
+düþük,orta,2,2,küçük,orta,zor
+düþük,orta,2,2,küçük,yüksek,zor
+düþük,orta,2,2,orta,düþük,zor
+düþük,orta,2,2,orta,orta,zor
+düþük,orta,2,2,orta,yüksek,zor
+düþük,orta,2,2,büyük,düþük,zor
+düþük,orta,2,2,büyük,orta,zor
+düþük,orta,2,2,büyük,yüksek,zor
+düþük,orta,2,4,küçük,düþük,zor
+düþük,orta,2,4,küçük,orta,normal
+düþük,orta,2,4,küçük,yüksek,kolay
+düþük,orta,2,4,orta,düþük,zor
+düþük,orta,2,4,orta,orta,normal
+düþük,orta,2,4,orta,yüksek,kolay
+düþük,orta,2,4,büyük,düþük,zor
+düþük,orta,2,4,büyük,orta,kolay
+düþük,orta,2,4,büyük,yüksek,çok kolay
+düþük,orta,2,4 den fazla,küçük,düþük,zor
+düþük,orta,2,4 den fazla,küçük,orta,zor
+düþük,orta,2,4 den fazla,küçük,yüksek,zor
+düþük,orta,2,4 den fazla,orta,düþük,zor
+düþük,orta,2,4 den fazla,orta,orta,normal
+düþük,orta,2,4 den fazla,orta,yüksek,kolay
+düþük,orta,2,4 den fazla,büyük,düþük,zor
+düþük,orta,2,4 den fazla,büyük,orta,kolay
+düþük,orta,2,4 den fazla,büyük,yüksek,çok kolay
+düþük,orta,3,2,küçük,düþük,zor
+düþük,orta,3,2,küçük,orta,zor
+düþük,orta,3,2,küçük,yüksek,zor
+düþük,orta,3,2,orta,düþük,zor
+düþük,orta,3,2,orta,orta,zor
+düþük,orta,3,2,orta,yüksek,zor
+düþük,orta,3,2,büyük,düþük,zor
+düþük,orta,3,2,büyük,orta,zor
+düþük,orta,3,2,büyük,yüksek,zor
+düþük,orta,3,4,küçük,düþük,zor
+düþük,orta,3,4,küçük,orta,normal
+düþük,orta,3,4,küçük,yüksek,kolay
+düþük,orta,3,4,orta,düþük,zor
+düþük,orta,3,4,orta,orta,normal
+düþük,orta,3,4,orta,yüksek,kolay
+düþük,orta,3,4,büyük,düþük,zor
+düþük,orta,3,4,büyük,orta,kolay
+düþük,orta,3,4,büyük,yüksek,çok kolay
+düþük,orta,3,4 den fazla,küçük,düþük,zor
+düþük,orta,3,4 den fazla,küçük,orta,normal
+düþük,orta,3,4 den fazla,küçük,yüksek,kolay
+düþük,orta,3,4 den fazla,orta,düþük,zor
+düþük,orta,3,4 den fazla,orta,orta,kolay
+düþük,orta,3,4 den fazla,orta,yüksek,çok kolay
+düþük,orta,3,4 den fazla,büyük,düþük,zor
+düþük,orta,3,4 den fazla,büyük,orta,kolay
+düþük,orta,3,4 den fazla,büyük,yüksek,çok kolay
+düþük,orta,4,2,küçük,düþük,zor
+düþük,orta,4,2,küçük,orta,zor
+düþük,orta,4,2,küçük,yüksek,zor
+düþük,orta,4,2,orta,düþük,zor
+düþük,orta,4,2,orta,orta,zor
+düþük,orta,4,2,orta,yüksek,zor
+düþük,orta,4,2,büyük,düþük,zor
+düþük,orta,4,2,büyük,orta,zor
+düþük,orta,4,2,büyük,yüksek,zor
+düþük,orta,4,4,küçük,düþük,zor
+düþük,orta,4,4,küçük,orta,normal
+düþük,orta,4,4,küçük,yüksek,kolay
+düþük,orta,4,4,orta,düþük,zor
+düþük,orta,4,4,orta,orta,kolay
+düþük,orta,4,4,orta,yüksek,çok kolay
+düþük,orta,4,4,büyük,düþük,zor
+düþük,orta,4,4,büyük,orta,kolay
+düþük,orta,4,4,büyük,yüksek,çok kolay
+düþük,orta,4,4 den fazla,küçük,düþük,zor
+düþük,orta,4,4 den fazla,küçük,orta,normal
+düþük,orta,4,4 den fazla,küçük,yüksek,kolay
+düþük,orta,4,4 den fazla,orta,düþük,zor
+düþük,orta,4,4 den fazla,orta,orta,kolay
+düþük,orta,4,4 den fazla,orta,yüksek,çok kolay
+düþük,orta,4,4 den fazla,büyük,düþük,zor
+düþük,orta,4,4 den fazla,büyük,orta,kolay
+düþük,orta,4,4 den fazla,büyük,yüksek,çok kolay
+düþük,orta,5 den fazla,2,küçük,düþük,zor
+düþük,orta,5 den fazla,2,küçük,orta,zor
+düþük,orta,5 den fazla,2,küçük,yüksek,zor
+düþük,orta,5 den fazla,2,orta,düþük,zor
+düþük,orta,5 den fazla,2,orta,orta,zor
+düþük,orta,5 den fazla,2,orta,yüksek,zor
+düþük,orta,5 den fazla,2,büyük,düþük,zor
+düþük,orta,5 den fazla,2,büyük,orta,zor
+düþük,orta,5 den fazla,2,büyük,yüksek,zor
+düþük,orta,5 den fazla,4,küçük,düþük,zor
+düþük,orta,5 den fazla,4,küçük,orta,normal
+düþük,orta,5 den fazla,4,küçük,yüksek,kolay
+düþük,orta,5 den fazla,4,orta,düþük,zor
+düþük,orta,5 den fazla,4,orta,orta,kolay
+düþük,orta,5 den fazla,4,orta,yüksek,çok kolay
+düþük,orta,5 den fazla,4,büyük,düþük,zor
+düþük,orta,5 den fazla,4,büyük,orta,kolay
+düþük,orta,5 den fazla,4,büyük,yüksek,çok kolay
+düþük,orta,5 den fazla,4 den fazla,küçük,düþük,zor
+düþük,orta,5 den fazla,4 den fazla,küçük,orta,normal
+düþük,orta,5 den fazla,4 den fazla,küçük,yüksek,kolay
+düþük,orta,5 den fazla,4 den fazla,orta,düþük,zor
+düþük,orta,5 den fazla,4 den fazla,orta,orta,kolay
+düþük,orta,5 den fazla,4 den fazla,orta,yüksek,çok kolay
+düþük,orta,5 den fazla,4 den fazla,büyük,düþük,zor
+düþük,orta,5 den fazla,4 den fazla,büyük,orta,kolay
+düþük,orta,5 den fazla,4 den fazla,büyük,yüksek,çok kolay
+düþük,düþük,2,2,küçük,düþük,zor
+düþük,düþük,2,2,küçük,orta,zor
+düþük,düþük,2,2,küçük,yüksek,zor
+düþük,düþük,2,2,orta,düþük,zor
+düþük,düþük,2,2,orta,orta,zor
+düþük,düþük,2,2,orta,yüksek,zor
+düþük,düþük,2,2,büyük,düþük,zor
+düþük,düþük,2,2,büyük,orta,zor
+düþük,düþük,2,2,büyük,yüksek,zor
+düþük,düþük,2,4,küçük,düþük,zor
+düþük,düþük,2,4,küçük,orta,normal
+düþük,düþük,2,4,küçük,yüksek,kolay
+düþük,düþük,2,4,orta,düþük,zor
+düþük,düþük,2,4,orta,orta,normal
+düþük,düþük,2,4,orta,yüksek,kolay
+düþük,düþük,2,4,büyük,düþük,zor
+düþük,düþük,2,4,büyük,orta,kolay
+düþük,düþük,2,4,büyük,yüksek,çok kolay
+düþük,düþük,2,4 den fazla,küçük,düþük,zor
+düþük,düþük,2,4 den fazla,küçük,orta,zor
+düþük,düþük,2,4 den fazla,küçük,yüksek,zor
+düþük,düþük,2,4 den fazla,orta,düþük,zor
+düþük,düþük,2,4 den fazla,orta,orta,normal
+düþük,düþük,2,4 den fazla,orta,yüksek,kolay
+düþük,düþük,2,4 den fazla,büyük,düþük,zor
+düþük,düþük,2,4 den fazla,büyük,orta,kolay
+düþük,düþük,2,4 den fazla,büyük,yüksek,çok kolay
+düþük,düþük,3,2,küçük,düþük,zor
+düþük,düþük,3,2,küçük,orta,zor
+düþük,düþük,3,2,küçük,yüksek,zor
+düþük,düþük,3,2,orta,düþük,zor
+düþük,düþük,3,2,orta,orta,zor
+düþük,düþük,3,2,orta,yüksek,zor
+düþük,düþük,3,2,büyük,düþük,zor
+düþük,düþük,3,2,büyük,orta,zor
+düþük,düþük,3,2,büyük,yüksek,zor
+düþük,düþük,3,4,küçük,düþük,zor
+düþük,düþük,3,4,küçük,orta,normal
+düþük,düþük,3,4,küçük,yüksek,kolay
+düþük,düþük,3,4,orta,düþük,zor
+düþük,düþük,3,4,orta,orta,normal
+düþük,düþük,3,4,orta,yüksek,kolay
+düþük,düþük,3,4,büyük,düþük,zor
+düþük,düþük,3,4,büyük,orta,kolay
+düþük,düþük,3,4,büyük,yüksek,çok kolay
+düþük,düþük,3,4 den fazla,küçük,düþük,zor
+düþük,düþük,3,4 den fazla,küçük,orta,normal
+düþük,düþük,3,4 den fazla,küçük,yüksek,kolay
+düþük,düþük,3,4 den fazla,orta,düþük,zor
+düþük,düþük,3,4 den fazla,orta,orta,kolay
+düþük,düþük,3,4 den fazla,orta,yüksek,çok kolay
+düþük,düþük,3,4 den fazla,büyük,düþük,zor
+düþük,düþük,3,4 den fazla,büyük,orta,kolay
+düþük,düþük,3,4 den fazla,büyük,yüksek,çok kolay
+düþük,düþük,4,2,küçük,düþük,zor
+düþük,düþük,4,2,küçük,orta,zor
+düþük,düþük,4,2,küçük,yüksek,zor
+düþük,düþük,4,2,orta,düþük,zor
+düþük,düþük,4,2,orta,orta,zor
+düþük,düþük,4,2,orta,yüksek,zor
+düþük,düþük,4,2,büyük,düþük,zor
+düþük,düþük,4,2,büyük,orta,zor
+düþük,düþük,4,2,büyük,yüksek,zor
+düþük,düþük,4,4,küçük,düþük,zor
+düþük,düþük,4,4,küçük,orta,normal
+düþük,düþük,4,4,küçük,yüksek,kolay
+düþük,düþük,4,4,orta,düþük,zor
+düþük,düþük,4,4,orta,orta,kolay
+düþük,düþük,4,4,orta,yüksek,çok kolay
+düþük,düþük,4,4,büyük,düþük,zor
+düþük,düþük,4,4,büyük,orta,kolay
+düþük,düþük,4,4,büyük,yüksek,çok kolay
+düþük,düþük,4,4 den fazla,küçük,düþük,zor
+düþük,düþük,4,4 den fazla,küçük,orta,normal
+düþük,düþük,4,4 den fazla,küçük,yüksek,kolay
+düþük,düþük,4,4 den fazla,orta,düþük,zor
+düþük,düþük,4,4 den fazla,orta,orta,kolay
+düþük,düþük,4,4 den fazla,orta,yüksek,çok kolay
+düþük,düþük,4,4 den fazla,büyük,düþük,zor
+düþük,düþük,4,4 den fazla,büyük,orta,kolay
+düþük,düþük,4,4 den fazla,büyük,yüksek,çok kolay
+düþük,düþük,5 den fazla,2,küçük,düþük,zor
+düþük,düþük,5 den fazla,2,küçük,orta,zor
+düþük,düþük,5 den fazla,2,küçük,yüksek,zor
+düþük,düþük,5 den fazla,2,orta,düþük,zor
+düþük,düþük,5 den fazla,2,orta,orta,zor
+düþük,düþük,5 den fazla,2,orta,yüksek,zor
+düþük,düþük,5 den fazla,2,büyük,düþük,zor
+düþük,düþük,5 den fazla,2,büyük,orta,zor
+düþük,düþük,5 den fazla,2,büyük,yüksek,zor
+düþük,düþük,5 den fazla,4,küçük,düþük,zor
+düþük,düþük,5 den fazla,4,küçük,orta,normal
+düþük,düþük,5 den fazla,4,küçük,yüksek,kolay
+düþük,düþük,5 den fazla,4,orta,düþük,zor
+düþük,düþük,5 den fazla,4,orta,orta,kolay
+düþük,düþük,5 den fazla,4,orta,yüksek,çok kolay
+düþük,düþük,5 den fazla,4,büyük,düþük,zor
+düþük,düþük,5 den fazla,4,büyük,orta,kolay
+düþük,düþük,5 den fazla,4,büyük,yüksek,çok kolay
+düþük,düþük,5 den fazla,4 den fazla,küçük,düþük,zor
+düþük,düþük,5 den fazla,4 den fazla,küçük,orta,normal
+düþük,düþük,5 den fazla,4 den fazla,küçük,yüksek,kolay
+düþük,düþük,5 den fazla,4 den fazla,orta,düþük,zor
+düþük,düþük,5 den fazla,4 den fazla,orta,orta,kolay
+düþük,düþük,5 den fazla,4 den fazla,orta,yüksek,çok kolay
+düþük,düþük,5 den fazla,4 den fazla,büyük,düþük,zor
+düþük,düþük,5 den fazla,4 den fazla,büyük,orta,kolay
+düþük,düþük,5 den fazla,4 den fazla,büyük,yüksek,çok kolay
